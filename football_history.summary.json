@@ -1,0 +1,27 @@
+{
+  "generatedForMatches": 478,
+  "span": {
+    "a": "2024-04-06",
+    "b": "2026-07-02"
+  },
+  "teamStatRows": 2068,
+  "playerStatRows": 15636,
+  "leagues": [
+    {
+      "tournamentId": 188,
+      "tournament": "Besta deild karla (Islanda)",
+      "matches": 397,
+      "seasons": 3,
+      "firstDate": "2024-04-06",
+      "lastDate": "2026-07-02"
+    },
+    {
+      "tournamentId": 40,
+      "tournament": "Allsvenskan (Svezia)",
+      "matches": 81,
+      "seasons": 1,
+      "firstDate": "2026-04-04",
+      "lastDate": "2026-05-31"
+    }
+  ]
+}
