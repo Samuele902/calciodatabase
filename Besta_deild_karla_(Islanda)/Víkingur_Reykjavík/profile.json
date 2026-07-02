@@ -1,0 +1,42 @@
+{
+  "team": "Víkingur Reykjavík",
+  "teamId": 1908,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 66,
+  "record": {
+    "w": 46,
+    "d": 12,
+    "l": 8,
+    "points": 150
+  },
+  "goals": {
+    "for": 2.53,
+    "against": 1.06,
+    "total": 3.59
+  },
+  "rates": {
+    "over25": 0.68,
+    "btts": 0.59
+  },
+  "avgStats": {
+    "xg": 1.93,
+    "shots": 16.33,
+    "shotsOnTarget": 6.25,
+    "shotsOffTarget": 5.85,
+    "blockedShots": 4.12,
+    "possession": 57.9,
+    "corners": 6.21,
+    "offsides": 2.1,
+    "fouls": 9.35,
+    "yellowCards": 2.25,
+    "redCards": 0.16,
+    "bigChances": 4.11,
+    "bigChancesMissed": 2.26,
+    "passes": 474.29,
+    "accuratePasses": 397.04,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 1.79
+  },
+  "lastDate": "2026-06-21"
+}

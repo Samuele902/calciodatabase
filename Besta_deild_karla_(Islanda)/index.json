@@ -1,0 +1,103 @@
+{
+  "league": "Besta deild karla (Islanda)",
+  "tournamentId": 188,
+  "matches": 397,
+  "teams": [
+    {
+      "team": "KR Reykjavík",
+      "teamId": 1902,
+      "dir": "KR_Reykjavík",
+      "matches": 68
+    },
+    {
+      "team": "Stjarnan Garðabær",
+      "teamId": 1912,
+      "dir": "Stjarnan_Garðabær",
+      "matches": 67
+    },
+    {
+      "team": "Valur Reykjavík",
+      "teamId": 1899,
+      "dir": "Valur_Reykjavík",
+      "matches": 67
+    },
+    {
+      "team": "Víkingur Reykjavík",
+      "teamId": 1908,
+      "dir": "Víkingur_Reykjavík",
+      "matches": 66
+    },
+    {
+      "team": "KA Akureyri",
+      "teamId": 1904,
+      "dir": "KA_Akureyri",
+      "matches": 66
+    },
+    {
+      "team": "ÍA Akranes",
+      "teamId": 1898,
+      "dir": "ÍA_Akranes",
+      "matches": 66
+    },
+    {
+      "team": "FH Hafnarfjörður",
+      "teamId": 1894,
+      "dir": "FH_Hafnarfjörður",
+      "matches": 66
+    },
+    {
+      "team": "Breidablik Kópavogur",
+      "teamId": 1901,
+      "dir": "Breidablik_Kópavogur",
+      "matches": 65
+    },
+    {
+      "team": "Fram Reykjavík",
+      "teamId": 1893,
+      "dir": "Fram_Reykjavík",
+      "matches": 65
+    },
+    {
+      "team": "IF Vestri",
+      "teamId": 221305,
+      "dir": "IF_Vestri",
+      "matches": 54
+    },
+    {
+      "team": "ÍBV Vestmannaeyjar",
+      "teamId": 1895,
+      "dir": "ÍBV_Vestmannaeyjar",
+      "matches": 39
+    },
+    {
+      "team": "HK Kópavogur",
+      "teamId": 7121,
+      "dir": "HK_Kópavogur",
+      "matches": 27
+    },
+    {
+      "team": "UMF Afturelding",
+      "teamId": 1914,
+      "dir": "UMF_Afturelding",
+      "matches": 27
+    },
+    {
+      "team": "Fylkir Reykjavík",
+      "teamId": 1896,
+      "dir": "Fylkir_Reykjavík",
+      "matches": 27
+    },
+    {
+      "team": "Þór Akureyri",
+      "teamId": 1903,
+      "dir": "Þór_Akureyri",
+      "matches": 12
+    },
+    {
+      "team": "Keflavík IF",
+      "teamId": 1900,
+      "dir": "Keflavík_IF",
+      "matches": 12
+    }
+  ]
+}

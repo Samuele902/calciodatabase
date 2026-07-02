@@ -1,0 +1,42 @@
+{
+  "team": "IF Brommapojkarna",
+  "teamId": 1787,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 10,
+  "record": {
+    "w": 4,
+    "d": 3,
+    "l": 3,
+    "points": 15
+  },
+  "goals": {
+    "for": 1.5,
+    "against": 1.6,
+    "total": 3.1
+  },
+  "rates": {
+    "over25": 0.8,
+    "btts": 0.7
+  },
+  "avgStats": {
+    "xg": 1.42,
+    "shots": 11.6,
+    "shotsOnTarget": 4.4,
+    "shotsOffTarget": 3.8,
+    "blockedShots": 3.4,
+    "possession": 46.1,
+    "corners": 4.5,
+    "offsides": 2.22,
+    "fouls": 10.4,
+    "yellowCards": 1.8,
+    "redCards": 1,
+    "bigChances": 2.3,
+    "bigChancesMissed": 1.8,
+    "passes": 449.9,
+    "accuratePasses": 372.9,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.3
+  },
+  "lastDate": "2026-05-31"
+}

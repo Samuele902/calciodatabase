@@ -1,0 +1,42 @@
+{
+  "team": "IF Vestri",
+  "teamId": 221305,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 54,
+  "record": {
+    "w": 14,
+    "d": 12,
+    "l": 28,
+    "points": 54
+  },
+  "goals": {
+    "for": 1.07,
+    "against": 1.8,
+    "total": 2.87
+  },
+  "rates": {
+    "over25": 0.46,
+    "btts": 0.52
+  },
+  "avgStats": {
+    "xg": 1,
+    "shots": 9.33,
+    "shotsOnTarget": 3.31,
+    "shotsOffTarget": 3.48,
+    "blockedShots": 2.45,
+    "possession": 43.33,
+    "corners": 4.33,
+    "offsides": 1.98,
+    "fouls": 11.6,
+    "yellowCards": 2.83,
+    "redCards": 0.27,
+    "bigChances": 1.62,
+    "bigChancesMissed": 1.08,
+    "passes": 370.76,
+    "accuratePasses": 289.45,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 4.07
+  },
+  "lastDate": "2025-10-25"
+}

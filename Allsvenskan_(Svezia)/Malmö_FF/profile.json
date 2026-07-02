@@ -1,0 +1,42 @@
+{
+  "team": "Malmö FF",
+  "teamId": 1892,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 10,
+  "record": {
+    "w": 4,
+    "d": 1,
+    "l": 5,
+    "points": 13
+  },
+  "goals": {
+    "for": 2,
+    "against": 2,
+    "total": 4
+  },
+  "rates": {
+    "over25": 0.7,
+    "btts": 0.8
+  },
+  "avgStats": {
+    "xg": 1.58,
+    "shots": 13.8,
+    "shotsOnTarget": 4.9,
+    "shotsOffTarget": 4.3,
+    "blockedShots": 4.7,
+    "possession": 52.9,
+    "corners": 4.7,
+    "offsides": 1.1,
+    "fouls": 13.1,
+    "yellowCards": 1.9,
+    "redCards": null,
+    "bigChances": 1.8,
+    "bigChancesMissed": 0.5,
+    "passes": 458.3,
+    "accuratePasses": 378.8,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 4.3
+  },
+  "lastDate": "2026-05-30"
+}

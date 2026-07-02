@@ -1,0 +1,42 @@
+{
+  "team": "Hammarby IF",
+  "teamId": 1758,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 11,
+  "record": {
+    "w": 5,
+    "d": 2,
+    "l": 4,
+    "points": 17
+  },
+  "goals": {
+    "for": 2.18,
+    "against": 1.18,
+    "total": 3.36
+  },
+  "rates": {
+    "over25": 0.55,
+    "btts": 0.55
+  },
+  "avgStats": {
+    "xg": 2.23,
+    "shots": 20.91,
+    "shotsOnTarget": 6.82,
+    "shotsOffTarget": 9.64,
+    "blockedShots": 4.45,
+    "possession": 60.18,
+    "corners": 5.36,
+    "offsides": 1.91,
+    "fouls": 11,
+    "yellowCards": 1.18,
+    "redCards": 1,
+    "bigChances": 3.36,
+    "bigChancesMissed": 2.18,
+    "passes": 561.82,
+    "accuratePasses": 483.91,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.64
+  },
+  "lastDate": "2026-05-31"
+}

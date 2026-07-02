@@ -1,0 +1,42 @@
+{
+  "team": "ÍA Akranes",
+  "teamId": 1898,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 66,
+  "record": {
+    "w": 26,
+    "d": 8,
+    "l": 32,
+    "points": 86
+  },
+  "goals": {
+    "for": 1.55,
+    "against": 1.82,
+    "total": 3.36
+  },
+  "rates": {
+    "over25": 0.64,
+    "btts": 0.52
+  },
+  "avgStats": {
+    "xg": 1.46,
+    "shots": 12.93,
+    "shotsOnTarget": 4.89,
+    "shotsOffTarget": 4.85,
+    "blockedShots": 3.04,
+    "possession": 47.2,
+    "corners": 5.39,
+    "offsides": 1.75,
+    "fouls": 11.31,
+    "yellowCards": 2.26,
+    "redCards": 0.1,
+    "bigChances": 2.77,
+    "bigChancesMissed": 2.08,
+    "passes": 383.85,
+    "accuratePasses": 296.81,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.46
+  },
+  "lastDate": "2026-06-29"
+}

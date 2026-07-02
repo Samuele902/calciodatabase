@@ -1,0 +1,42 @@
+{
+  "team": "UMF Afturelding",
+  "teamId": 1914,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 27,
+  "record": {
+    "w": 6,
+    "d": 9,
+    "l": 12,
+    "points": 27
+  },
+  "goals": {
+    "for": 1.33,
+    "against": 1.7,
+    "total": 3.04
+  },
+  "rates": {
+    "over25": 0.56,
+    "btts": 0.63
+  },
+  "avgStats": {
+    "xg": 1.57,
+    "shots": 13.74,
+    "shotsOnTarget": 4.19,
+    "shotsOffTarget": 5.15,
+    "blockedShots": 4.41,
+    "possession": 50,
+    "corners": 5.3,
+    "offsides": 1.36,
+    "fouls": 10.04,
+    "yellowCards": 2.27,
+    "redCards": 0.67,
+    "bigChances": 1.56,
+    "bigChancesMissed": 0.95,
+    "passes": 431.04,
+    "accuratePasses": 351.81,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.52
+  },
+  "lastDate": "2025-10-25"
+}

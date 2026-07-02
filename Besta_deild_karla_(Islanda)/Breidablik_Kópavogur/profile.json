@@ -1,0 +1,42 @@
+{
+  "team": "Breidablik Kópavogur",
+  "teamId": 1901,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 65,
+  "record": {
+    "w": 35,
+    "d": 18,
+    "l": 12,
+    "points": 123
+  },
+  "goals": {
+    "for": 2.12,
+    "against": 1.43,
+    "total": 3.55
+  },
+  "rates": {
+    "over25": 0.65,
+    "btts": 0.69
+  },
+  "avgStats": {
+    "xg": 1.79,
+    "shots": 15.85,
+    "shotsOnTarget": 5.54,
+    "shotsOffTarget": 5.15,
+    "blockedShots": 5.06,
+    "possession": 54.81,
+    "corners": 7.31,
+    "offsides": 1.92,
+    "fouls": 11.75,
+    "yellowCards": 2.12,
+    "redCards": 0.17,
+    "bigChances": 2.16,
+    "bigChancesMissed": 1.2,
+    "passes": 449.69,
+    "accuratePasses": 364.52,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.48
+  },
+  "lastDate": "2026-06-21"
+}

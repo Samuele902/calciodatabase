@@ -1,0 +1,42 @@
+{
+  "team": "AIK",
+  "teamId": 1764,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 10,
+  "record": {
+    "w": 3,
+    "d": 3,
+    "l": 4,
+    "points": 12
+  },
+  "goals": {
+    "for": 1.2,
+    "against": 1.6,
+    "total": 2.8
+  },
+  "rates": {
+    "over25": 0.6,
+    "btts": 0.7
+  },
+  "avgStats": {
+    "xg": 1.52,
+    "shots": 14.3,
+    "shotsOnTarget": 5.4,
+    "shotsOffTarget": 4.3,
+    "blockedShots": 4.6,
+    "possession": 53.7,
+    "corners": 6.7,
+    "offsides": 1.1,
+    "fouls": 12.1,
+    "yellowCards": 3.3,
+    "redCards": null,
+    "bigChances": 2,
+    "bigChancesMissed": 1.4,
+    "passes": 450.6,
+    "accuratePasses": 374.3,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.3
+  },
+  "lastDate": "2026-05-30"
+}

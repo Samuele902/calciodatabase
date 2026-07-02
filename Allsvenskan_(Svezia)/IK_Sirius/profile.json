@@ -1,0 +1,42 @@
+{
+  "team": "IK Sirius",
+  "teamId": 1793,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 10,
+  "record": {
+    "w": 9,
+    "d": 1,
+    "l": 0,
+    "points": 28
+  },
+  "goals": {
+    "for": 2.7,
+    "against": 1,
+    "total": 3.7
+  },
+  "rates": {
+    "over25": 0.8,
+    "btts": 0.6
+  },
+  "avgStats": {
+    "xg": 2.11,
+    "shots": 14.6,
+    "shotsOnTarget": 5.5,
+    "shotsOffTarget": 3.8,
+    "blockedShots": 5.3,
+    "possession": 47.5,
+    "corners": 4.9,
+    "offsides": 1.7,
+    "fouls": 12.3,
+    "yellowCards": 1.2,
+    "redCards": 1,
+    "bigChances": 2.7,
+    "bigChancesMissed": 1.13,
+    "passes": 422,
+    "accuratePasses": 346.5,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.5
+  },
+  "lastDate": "2026-05-30"
+}

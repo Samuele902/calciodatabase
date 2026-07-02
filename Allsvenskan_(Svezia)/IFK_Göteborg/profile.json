@@ -1,0 +1,42 @@
+{
+  "team": "IFK Göteborg",
+  "teamId": 1761,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 10,
+  "record": {
+    "w": 2,
+    "d": 4,
+    "l": 4,
+    "points": 10
+  },
+  "goals": {
+    "for": 1.3,
+    "against": 2.2,
+    "total": 3.5
+  },
+  "rates": {
+    "over25": 0.4,
+    "btts": 0.6
+  },
+  "avgStats": {
+    "xg": 1.61,
+    "shots": 15.3,
+    "shotsOnTarget": 4.8,
+    "shotsOffTarget": 6.6,
+    "blockedShots": 3.9,
+    "possession": 51.2,
+    "corners": 4.9,
+    "offsides": 1.3,
+    "fouls": 12.5,
+    "yellowCards": 2.8,
+    "redCards": null,
+    "bigChances": 2.56,
+    "bigChancesMissed": 1.78,
+    "passes": 418.8,
+    "accuratePasses": 331.6,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.1
+  },
+  "lastDate": "2026-05-31"
+}

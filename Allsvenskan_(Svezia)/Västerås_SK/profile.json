@@ -1,0 +1,42 @@
+{
+  "team": "Västerås SK",
+  "teamId": 1775,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 10,
+  "record": {
+    "w": 3,
+    "d": 3,
+    "l": 4,
+    "points": 12
+  },
+  "goals": {
+    "for": 1.7,
+    "against": 2.2,
+    "total": 3.9
+  },
+  "rates": {
+    "over25": 0.7,
+    "btts": 0.7
+  },
+  "avgStats": {
+    "xg": 1.25,
+    "shots": 10.8,
+    "shotsOnTarget": 3.5,
+    "shotsOffTarget": 4.3,
+    "blockedShots": 3,
+    "possession": 48.2,
+    "corners": 4.9,
+    "offsides": 1.25,
+    "fouls": 12.7,
+    "yellowCards": 1.2,
+    "redCards": 1,
+    "bigChances": 2.11,
+    "bigChancesMissed": 1.13,
+    "passes": 422.1,
+    "accuratePasses": 333.4,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.8
+  },
+  "lastDate": "2026-05-31"
+}

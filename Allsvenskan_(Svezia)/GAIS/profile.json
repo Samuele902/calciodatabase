@@ -1,0 +1,42 @@
+{
+  "team": "GAIS",
+  "teamId": 1786,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 11,
+  "record": {
+    "w": 4,
+    "d": 3,
+    "l": 4,
+    "points": 15
+  },
+  "goals": {
+    "for": 1.45,
+    "against": 1,
+    "total": 2.45
+  },
+  "rates": {
+    "over25": 0.55,
+    "btts": 0.45
+  },
+  "avgStats": {
+    "xg": 1.7,
+    "shots": 14.27,
+    "shotsOnTarget": 4.82,
+    "shotsOffTarget": 5.18,
+    "blockedShots": 4.27,
+    "possession": 50.27,
+    "corners": 4.82,
+    "offsides": 1.55,
+    "fouls": 15.45,
+    "yellowCards": 2.09,
+    "redCards": 0,
+    "bigChances": 3,
+    "bigChancesMissed": 2.63,
+    "passes": 454,
+    "accuratePasses": 361.09,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.64
+  },
+  "lastDate": "2026-05-30"
+}

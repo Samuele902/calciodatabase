@@ -1,0 +1,42 @@
+{
+  "team": "Degerfors IF",
+  "teamId": 1807,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 10,
+  "record": {
+    "w": 2,
+    "d": 4,
+    "l": 4,
+    "points": 10
+  },
+  "goals": {
+    "for": 1.2,
+    "against": 1.6,
+    "total": 2.8
+  },
+  "rates": {
+    "over25": 0.6,
+    "btts": 0.7
+  },
+  "avgStats": {
+    "xg": 1.05,
+    "shots": 11.9,
+    "shotsOnTarget": 3.5,
+    "shotsOffTarget": 4.4,
+    "blockedShots": 4,
+    "possession": 49,
+    "corners": 4.3,
+    "offsides": 1.6,
+    "fouls": 14.4,
+    "yellowCards": 2,
+    "redCards": null,
+    "bigChances": 1.4,
+    "bigChancesMissed": 0.75,
+    "passes": 411.9,
+    "accuratePasses": 320.4,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.7
+  },
+  "lastDate": "2026-05-31"
+}

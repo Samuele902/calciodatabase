@@ -1,0 +1,42 @@
+{
+  "team": "ÍBV Vestmannaeyjar",
+  "teamId": 1895,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 39,
+  "record": {
+    "w": 12,
+    "d": 9,
+    "l": 18,
+    "points": 45
+  },
+  "goals": {
+    "for": 1.41,
+    "against": 1.62,
+    "total": 3.03
+  },
+  "rates": {
+    "over25": 0.51,
+    "btts": 0.56
+  },
+  "avgStats": {
+    "xg": 1.38,
+    "shots": 12.59,
+    "shotsOnTarget": 4.21,
+    "shotsOffTarget": 4.64,
+    "blockedShots": 3.74,
+    "possession": 44.31,
+    "corners": 4.67,
+    "offsides": 2.05,
+    "fouls": 10.1,
+    "yellowCards": 2.61,
+    "redCards": 0.25,
+    "bigChances": 2.08,
+    "bigChancesMissed": 1.22,
+    "passes": 355.1,
+    "accuratePasses": 266.28,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.21
+  },
+  "lastDate": "2026-06-28"
+}

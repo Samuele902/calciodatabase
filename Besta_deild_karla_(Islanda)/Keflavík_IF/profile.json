@@ -1,0 +1,42 @@
+{
+  "team": "Keflavík IF",
+  "teamId": 1900,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 12,
+  "record": {
+    "w": 4,
+    "d": 3,
+    "l": 5,
+    "points": 15
+  },
+  "goals": {
+    "for": 1.42,
+    "against": 1.92,
+    "total": 3.33
+  },
+  "rates": {
+    "over25": 0.67,
+    "btts": 0.83
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": 16.33,
+    "shotsOnTarget": 4.67,
+    "shotsOffTarget": 7,
+    "blockedShots": 4.67,
+    "possession": 44.83,
+    "corners": 5.75,
+    "offsides": 2.08,
+    "fouls": 10.58,
+    "yellowCards": 2,
+    "redCards": null,
+    "bigChances": 2.75,
+    "bigChancesMissed": 1.73,
+    "passes": 371.08,
+    "accuratePasses": 279.5,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.42
+  },
+  "lastDate": "2026-06-28"
+}

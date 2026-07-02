@@ -1,0 +1,42 @@
+{
+  "team": "Fram Reykjavík",
+  "teamId": 1893,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 65,
+  "record": {
+    "w": 26,
+    "d": 14,
+    "l": 25,
+    "points": 92
+  },
+  "goals": {
+    "for": 1.69,
+    "against": 1.72,
+    "total": 3.42
+  },
+  "rates": {
+    "over25": 0.6,
+    "btts": 0.68
+  },
+  "avgStats": {
+    "xg": 1.47,
+    "shots": 13.4,
+    "shotsOnTarget": 4.9,
+    "shotsOffTarget": 4.79,
+    "blockedShots": 3.67,
+    "possession": 46.19,
+    "corners": 6.08,
+    "offsides": 2.37,
+    "fouls": 10.71,
+    "yellowCards": 2.1,
+    "redCards": 0.21,
+    "bigChances": 2.5,
+    "bigChancesMissed": 1.42,
+    "passes": 373.65,
+    "accuratePasses": 287.75,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3
+  },
+  "lastDate": "2026-06-29"
+}

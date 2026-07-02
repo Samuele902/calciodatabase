@@ -1,0 +1,42 @@
+{
+  "team": "Fylkir Reykjavík",
+  "teamId": 1896,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 27,
+  "record": {
+    "w": 5,
+    "d": 6,
+    "l": 16,
+    "points": 21
+  },
+  "goals": {
+    "for": 1.19,
+    "against": 2.22,
+    "total": 3.41
+  },
+  "rates": {
+    "over25": 0.67,
+    "btts": 0.52
+  },
+  "avgStats": {
+    "xg": 1.51,
+    "shots": 11.93,
+    "shotsOnTarget": 3.93,
+    "shotsOffTarget": 4.2,
+    "blockedShots": 3.4,
+    "possession": 45.13,
+    "corners": 5.07,
+    "offsides": 1,
+    "fouls": 11.27,
+    "yellowCards": 1.8,
+    "redCards": 0.13,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 346.93,
+    "accuratePasses": 276.07,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.4
+  },
+  "lastDate": "2024-10-26"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "IF Elfsborg",
+  "teamId": 1762,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 11,
+  "record": {
+    "w": 4,
+    "d": 6,
+    "l": 1,
+    "points": 18
+  },
+  "goals": {
+    "for": 1.45,
+    "against": 1,
+    "total": 2.45
+  },
+  "rates": {
+    "over25": 0.36,
+    "btts": 0.73
+  },
+  "avgStats": {
+    "xg": 1.5,
+    "shots": 10.27,
+    "shotsOnTarget": 3.64,
+    "shotsOffTarget": 3.91,
+    "blockedShots": 2.73,
+    "possession": 44.73,
+    "corners": 3.55,
+    "offsides": 1.36,
+    "fouls": 11.55,
+    "yellowCards": 1.82,
+    "redCards": null,
+    "bigChances": 2.27,
+    "bigChancesMissed": 1.27,
+    "passes": 414.73,
+    "accuratePasses": 331.82,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.27
+  },
+  "lastDate": "2026-05-29"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Stjarnan Garðabær",
+  "teamId": 1912,
+  "league": "Besta deild karla (Islanda)",
+  "matches": 67,
+  "record": {
+    "w": 28,
+    "d": 14,
+    "l": 25,
+    "points": 98
+  },
+  "goals": {
+    "for": 1.9,
+    "against": 1.75,
+    "total": 3.64
+  },
+  "rates": {
+    "over25": 0.73,
+    "btts": 0.76
+  },
+  "avgStats": {
+    "xg": 1.7,
+    "shots": 14.07,
+    "shotsOnTarget": 5.27,
+    "shotsOffTarget": 5.15,
+    "blockedShots": 3.56,
+    "possession": 54.04,
+    "corners": 5.85,
+    "offsides": 1.92,
+    "fouls": 11.45,
+    "yellowCards": 2.69,
+    "redCards": 0.17,
+    "bigChances": 2.85,
+    "bigChancesMissed": 1.68,
+    "passes": 428.84,
+    "accuratePasses": 350.85,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 4.27
+  },
+  "lastDate": "2026-06-28"
+}

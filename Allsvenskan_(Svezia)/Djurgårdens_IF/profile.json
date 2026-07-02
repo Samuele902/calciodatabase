@@ -1,0 +1,42 @@
+{
+  "team": "Djurgårdens IF",
+  "teamId": 1759,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 9,
+  "record": {
+    "w": 4,
+    "d": 1,
+    "l": 4,
+    "points": 13
+  },
+  "goals": {
+    "for": 2.11,
+    "against": 1.44,
+    "total": 3.56
+  },
+  "rates": {
+    "over25": 0.67,
+    "btts": 0.67
+  },
+  "avgStats": {
+    "xg": 2.12,
+    "shots": 16.78,
+    "shotsOnTarget": 6.11,
+    "shotsOffTarget": 6.33,
+    "blockedShots": 4.33,
+    "possession": 57.44,
+    "corners": 6.56,
+    "offsides": 1.33,
+    "fouls": 12.22,
+    "yellowCards": 1.56,
+    "redCards": null,
+    "bigChances": 3.67,
+    "bigChancesMissed": 2.33,
+    "passes": 492.44,
+    "accuratePasses": 415.67,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.11
+  },
+  "lastDate": "2026-05-22"
+}
