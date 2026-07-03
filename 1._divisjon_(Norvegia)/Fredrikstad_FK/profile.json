@@ -1,0 +1,42 @@
+{
+  "team": "Fredrikstad FK",
+  "teamId": 687,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 30,
+  "record": {
+    "w": 18,
+    "d": 10,
+    "l": 2,
+    "points": 64
+  },
+  "goals": {
+    "for": 1.67,
+    "against": 0.77,
+    "total": 2.43
+  },
+  "rates": {
+    "over25": 0.53,
+    "btts": 0.6
+  },
+  "avgStats": {
+    "xg": 1.52,
+    "shots": 11.2,
+    "shotsOnTarget": 4.43,
+    "shotsOffTarget": 3.93,
+    "blockedShots": 2.77,
+    "possession": 50.8,
+    "corners": 5.57,
+    "offsides": 1.97,
+    "fouls": 11.47,
+    "yellowCards": 1.27,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 472.03,
+    "accuratePasses": 395.3,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.03
+  },
+  "lastDate": "2023-11-12"
+}

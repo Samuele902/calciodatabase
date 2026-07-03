@@ -1,0 +1,42 @@
+{
+  "team": "Grorud",
+  "teamId": 7320,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 2,
+  "record": {
+    "w": 0,
+    "d": 0,
+    "l": 2,
+    "points": 0
+  },
+  "goals": {
+    "for": 0.5,
+    "against": 2,
+    "total": 2.5
+  },
+  "rates": {
+    "over25": 0.5,
+    "btts": 0.5
+  },
+  "avgStats": {
+    "xg": 2.17,
+    "shots": 18,
+    "shotsOnTarget": 7,
+    "shotsOffTarget": 5,
+    "blockedShots": 6,
+    "possession": 62,
+    "corners": 7,
+    "offsides": 2,
+    "fouls": 12,
+    "yellowCards": 1,
+    "redCards": 1,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 600,
+    "accuratePasses": 504,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 1
+  },
+  "lastDate": "2025-11-09"
+}

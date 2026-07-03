@@ -1,0 +1,42 @@
+{
+  "team": "Raufoss",
+  "teamId": 668,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 103,
+  "record": {
+    "w": 31,
+    "d": 26,
+    "l": 46,
+    "points": 119
+  },
+  "goals": {
+    "for": 1.24,
+    "against": 1.53,
+    "total": 2.78
+  },
+  "rates": {
+    "over25": 0.56,
+    "btts": 0.58
+  },
+  "avgStats": {
+    "xg": 1.25,
+    "shots": 11.03,
+    "shotsOnTarget": 3.69,
+    "shotsOffTarget": 4.01,
+    "blockedShots": 3.11,
+    "possession": 43.98,
+    "corners": 5.15,
+    "offsides": 1.64,
+    "fouls": 11.82,
+    "yellowCards": 1.77,
+    "redCards": 0.05,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 358.83,
+    "accuratePasses": 284.83,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.41
+  },
+  "lastDate": "2026-06-27"
+}

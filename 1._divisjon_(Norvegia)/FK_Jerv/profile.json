@@ -1,0 +1,42 @@
+{
+  "team": "FK Jerv",
+  "teamId": 862,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 34,
+  "record": {
+    "w": 10,
+    "d": 7,
+    "l": 17,
+    "points": 37
+  },
+  "goals": {
+    "for": 1.32,
+    "against": 1.91,
+    "total": 3.24
+  },
+  "rates": {
+    "over25": 0.65,
+    "btts": 0.74
+  },
+  "avgStats": {
+    "xg": 1.18,
+    "shots": 12.09,
+    "shotsOnTarget": 3.81,
+    "shotsOffTarget": 4.94,
+    "blockedShots": 3.16,
+    "possession": 52.44,
+    "corners": 5.84,
+    "offsides": 1.59,
+    "fouls": 11.16,
+    "yellowCards": 1.75,
+    "redCards": 0.03,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 425.59,
+    "accuratePasses": 346.44,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.94
+  },
+  "lastDate": "2024-11-30"
+}

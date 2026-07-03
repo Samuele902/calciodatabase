@@ -1,0 +1,42 @@
+{
+  "team": "Sogndal IL",
+  "teamId": 665,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 102,
+  "record": {
+    "w": 36,
+    "d": 24,
+    "l": 42,
+    "points": 132
+  },
+  "goals": {
+    "for": 1.44,
+    "against": 1.6,
+    "total": 3.04
+  },
+  "rates": {
+    "over25": 0.6,
+    "btts": 0.6
+  },
+  "avgStats": {
+    "xg": 1.66,
+    "shots": 13.08,
+    "shotsOnTarget": 4.62,
+    "shotsOffTarget": 4.65,
+    "blockedShots": 3.54,
+    "possession": 47.79,
+    "corners": 5.38,
+    "offsides": 1.29,
+    "fouls": 10.19,
+    "yellowCards": 1.5,
+    "redCards": 0.01,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 418.09,
+    "accuratePasses": 341.63,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.12
+  },
+  "lastDate": "2026-06-27"
+}

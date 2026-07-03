@@ -1,0 +1,42 @@
+{
+  "team": "Levanger FK",
+  "teamId": 866,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 30,
+  "record": {
+    "w": 6,
+    "d": 11,
+    "l": 13,
+    "points": 29
+  },
+  "goals": {
+    "for": 1.57,
+    "against": 1.7,
+    "total": 3.27
+  },
+  "rates": {
+    "over25": 0.63,
+    "btts": 0.67
+  },
+  "avgStats": {
+    "xg": 1.41,
+    "shots": 12.5,
+    "shotsOnTarget": 4.17,
+    "shotsOffTarget": 4.53,
+    "blockedShots": 3.47,
+    "possession": 46.63,
+    "corners": 4.53,
+    "offsides": 2.07,
+    "fouls": 10.27,
+    "yellowCards": 1.27,
+    "redCards": 0.03,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 353.37,
+    "accuratePasses": 279.5,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.67
+  },
+  "lastDate": "2024-11-09"
+}

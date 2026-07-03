@@ -1,0 +1,42 @@
+{
+  "team": "Strømmen IF",
+  "teamId": 885,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 13,
+  "record": {
+    "w": 3,
+    "d": 2,
+    "l": 8,
+    "points": 11
+  },
+  "goals": {
+    "for": 1.38,
+    "against": 2.69,
+    "total": 4.08
+  },
+  "rates": {
+    "over25": 0.77,
+    "btts": 0.54
+  },
+  "avgStats": {
+    "xg": 1.47,
+    "shots": 11,
+    "shotsOnTarget": 4.31,
+    "shotsOffTarget": 4.08,
+    "blockedShots": 2.62,
+    "possession": 37.46,
+    "corners": 3.69,
+    "offsides": 2.46,
+    "fouls": 11.31,
+    "yellowCards": 1.46,
+    "redCards": 0.08,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 299.23,
+    "accuratePasses": 227.92,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3
+  },
+  "lastDate": "2026-06-27"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Sandnes Ulf",
+  "teamId": 929,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 73,
+  "record": {
+    "w": 20,
+    "d": 13,
+    "l": 40,
+    "points": 73
+  },
+  "goals": {
+    "for": 1.22,
+    "against": 1.97,
+    "total": 3.19
+  },
+  "rates": {
+    "over25": 0.53,
+    "btts": 0.48
+  },
+  "avgStats": {
+    "xg": 1.35,
+    "shots": 12.07,
+    "shotsOnTarget": 4,
+    "shotsOffTarget": 4.37,
+    "blockedShots": 3.42,
+    "possession": 45.68,
+    "corners": 4.95,
+    "offsides": 1.36,
+    "fouls": 11.37,
+    "yellowCards": 1.82,
+    "redCards": 0.05,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 385.44,
+    "accuratePasses": 311.67,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.84
+  },
+  "lastDate": "2026-06-27"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "IK Start",
+  "teamId": 667,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 90,
+  "record": {
+    "w": 37,
+    "d": 25,
+    "l": 28,
+    "points": 136
+  },
+  "goals": {
+    "for": 1.69,
+    "against": 1.42,
+    "total": 3.11
+  },
+  "rates": {
+    "over25": 0.68,
+    "btts": 0.66
+  },
+  "avgStats": {
+    "xg": 1.68,
+    "shots": 13.44,
+    "shotsOnTarget": 4.81,
+    "shotsOffTarget": 5,
+    "blockedShots": 3.39,
+    "possession": 49.36,
+    "corners": 5.19,
+    "offsides": 1.69,
+    "fouls": 10.8,
+    "yellowCards": 1.62,
+    "redCards": 0.08,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 426.19,
+    "accuratePasses": 351.66,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.13
+  },
+  "lastDate": "2025-11-08"
+}

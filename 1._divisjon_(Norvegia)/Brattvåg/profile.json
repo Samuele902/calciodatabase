@@ -1,0 +1,42 @@
+{
+  "team": "Brattvåg",
+  "teamId": 954,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 4,
+  "record": {
+    "w": 2,
+    "d": 0,
+    "l": 2,
+    "points": 6
+  },
+  "goals": {
+    "for": 2.25,
+    "against": 2,
+    "total": 4.25
+  },
+  "rates": {
+    "over25": 0.75,
+    "btts": 0.75
+  },
+  "avgStats": {
+    "xg": 1.15,
+    "shots": 13,
+    "shotsOnTarget": 4.33,
+    "shotsOffTarget": 5.33,
+    "blockedShots": 3.33,
+    "possession": 49.33,
+    "corners": 4.67,
+    "offsides": 2,
+    "fouls": 10.67,
+    "yellowCards": 1.67,
+    "redCards": 0.33,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 603,
+    "accuratePasses": 495,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 4.33
+  },
+  "lastDate": "2025-11-29"
+}

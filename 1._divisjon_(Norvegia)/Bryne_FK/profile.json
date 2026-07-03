@@ -1,0 +1,42 @@
+{
+  "team": "Bryne FK",
+  "teamId": 663,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 73,
+  "record": {
+    "w": 36,
+    "d": 10,
+    "l": 27,
+    "points": 118
+  },
+  "goals": {
+    "for": 1.48,
+    "against": 1.19,
+    "total": 2.67
+  },
+  "rates": {
+    "over25": 0.53,
+    "btts": 0.52
+  },
+  "avgStats": {
+    "xg": 1.58,
+    "shots": 13.92,
+    "shotsOnTarget": 4.95,
+    "shotsOffTarget": 4.81,
+    "blockedShots": 3.81,
+    "possession": 47.45,
+    "corners": 5.15,
+    "offsides": 1.85,
+    "fouls": 11.66,
+    "yellowCards": 1.62,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 377.48,
+    "accuratePasses": 295.05,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.51
+  },
+  "lastDate": "2026-06-27"
+}

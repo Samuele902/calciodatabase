@@ -1,0 +1,42 @@
+{
+  "team": "Strømsgodset",
+  "teamId": 1163,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 13,
+  "record": {
+    "w": 8,
+    "d": 4,
+    "l": 1,
+    "points": 28
+  },
+  "goals": {
+    "for": 2.92,
+    "against": 1.38,
+    "total": 4.31
+  },
+  "rates": {
+    "over25": 0.77,
+    "btts": 0.62
+  },
+  "avgStats": {
+    "xg": 3.08,
+    "shots": 20.23,
+    "shotsOnTarget": 8.38,
+    "shotsOffTarget": 6.08,
+    "blockedShots": 5.15,
+    "possession": 55.62,
+    "corners": 7.38,
+    "offsides": 1.69,
+    "fouls": 10.08,
+    "yellowCards": 1.31,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 502.54,
+    "accuratePasses": 418,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.23
+  },
+  "lastDate": "2026-06-27"
+}

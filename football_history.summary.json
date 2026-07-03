@@ -1,11 +1,11 @@
 {
-  "generatedForMatches": 3468,
+  "generatedForMatches": 3750,
   "span": {
     "a": "2023-04-01",
     "b": "2026-07-02"
   },
-  "teamStatRows": 17900,
-  "playerStatRows": 121509,
+  "teamStatRows": 18158,
+  "playerStatRows": 148217,
   "leagues": [
     {
       "tournamentId": 649,
@@ -14,6 +14,14 @@
       "seasons": 4,
       "firstDate": "2023-04-15",
       "lastDate": "2026-06-28"
+    },
+    {
+      "tournamentId": 22,
+      "tournament": "1. divisjon (Norvegia)",
+      "matches": 836,
+      "seasons": 4,
+      "firstDate": "2023-04-10",
+      "lastDate": "2026-07-02"
     },
     {
       "tournamentId": 20,
@@ -30,14 +38,6 @@
       "seasons": 4,
       "firstDate": "2023-04-01",
       "lastDate": "2026-05-31"
-    },
-    {
-      "tournamentId": 1420,
-      "tournament": "1. divisjon (Norvegia)",
-      "matches": 554,
-      "seasons": 3,
-      "firstDate": "2023-09-02",
-      "lastDate": "2026-05-03"
     },
     {
       "tournamentId": 188,

@@ -1,0 +1,42 @@
+{
+  "team": "Moss FK",
+  "teamId": 662,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 105,
+  "record": {
+    "w": 40,
+    "d": 22,
+    "l": 43,
+    "points": 142
+  },
+  "goals": {
+    "for": 1.54,
+    "against": 1.71,
+    "total": 3.26
+  },
+  "rates": {
+    "over25": 0.66,
+    "btts": 0.64
+  },
+  "avgStats": {
+    "xg": 1.62,
+    "shots": 13.01,
+    "shotsOnTarget": 4.54,
+    "shotsOffTarget": 4.83,
+    "blockedShots": 3.29,
+    "possession": 50.02,
+    "corners": 5.14,
+    "offsides": 1.5,
+    "fouls": 11.5,
+    "yellowCards": 1.73,
+    "redCards": 0.06,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 393.37,
+    "accuratePasses": 316.78,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.98
+  },
+  "lastDate": "2026-06-27"
+}

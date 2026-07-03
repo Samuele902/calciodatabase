@@ -1,0 +1,42 @@
+{
+  "team": "Stabæk Fotball",
+  "teamId": 1162,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 73,
+  "record": {
+    "w": 26,
+    "d": 19,
+    "l": 28,
+    "points": 97
+  },
+  "goals": {
+    "for": 1.77,
+    "against": 1.73,
+    "total": 3.49
+  },
+  "rates": {
+    "over25": 0.71,
+    "btts": 0.64
+  },
+  "avgStats": {
+    "xg": 1.81,
+    "shots": 14.62,
+    "shotsOnTarget": 4.96,
+    "shotsOffTarget": 4.77,
+    "blockedShots": 4.6,
+    "possession": 51.32,
+    "corners": 6.49,
+    "offsides": 2.04,
+    "fouls": 10.18,
+    "yellowCards": 1.42,
+    "redCards": 0.04,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 468.79,
+    "accuratePasses": 391.15,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.03
+  },
+  "lastDate": "2026-06-27"
+}

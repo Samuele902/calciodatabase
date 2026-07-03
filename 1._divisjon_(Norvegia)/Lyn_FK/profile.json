@@ -1,0 +1,42 @@
+{
+  "team": "Lyn FK",
+  "teamId": 657,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 78,
+  "record": {
+    "w": 33,
+    "d": 16,
+    "l": 29,
+    "points": 115
+  },
+  "goals": {
+    "for": 1.65,
+    "against": 1.41,
+    "total": 3.06
+  },
+  "rates": {
+    "over25": 0.63,
+    "btts": 0.58
+  },
+  "avgStats": {
+    "xg": 1.59,
+    "shots": 12.53,
+    "shotsOnTarget": 4.57,
+    "shotsOffTarget": 4.13,
+    "blockedShots": 3.57,
+    "possession": 50.07,
+    "corners": 5.62,
+    "offsides": 1.29,
+    "fouls": 10.87,
+    "yellowCards": 1.25,
+    "redCards": 0.05,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 449.62,
+    "accuratePasses": 362.79,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.25
+  },
+  "lastDate": "2026-07-02"
+}

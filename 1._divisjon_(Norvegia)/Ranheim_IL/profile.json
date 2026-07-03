@@ -1,0 +1,42 @@
+{
+  "team": "Ranheim IL",
+  "teamId": 708,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 103,
+  "record": {
+    "w": 42,
+    "d": 21,
+    "l": 40,
+    "points": 147
+  },
+  "goals": {
+    "for": 1.59,
+    "against": 1.71,
+    "total": 3.3
+  },
+  "rates": {
+    "over25": 0.7,
+    "btts": 0.62
+  },
+  "avgStats": {
+    "xg": 1.71,
+    "shots": 12.63,
+    "shotsOnTarget": 4.62,
+    "shotsOffTarget": 4.24,
+    "blockedShots": 3.48,
+    "possession": 54.42,
+    "corners": 5.43,
+    "offsides": 1.33,
+    "fouls": 9.71,
+    "yellowCards": 1.51,
+    "redCards": 0.1,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 480.66,
+    "accuratePasses": 407.32,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.2
+  },
+  "lastDate": "2026-06-27"
+}

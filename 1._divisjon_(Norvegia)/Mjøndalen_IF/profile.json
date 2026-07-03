@@ -1,0 +1,42 @@
+{
+  "team": "Mjøndalen IF",
+  "teamId": 903,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 92,
+  "record": {
+    "w": 26,
+    "d": 22,
+    "l": 44,
+    "points": 100
+  },
+  "goals": {
+    "for": 1.28,
+    "against": 1.79,
+    "total": 3.08
+  },
+  "rates": {
+    "over25": 0.6,
+    "btts": 0.61
+  },
+  "avgStats": {
+    "xg": 1.31,
+    "shots": 11.13,
+    "shotsOnTarget": 3.82,
+    "shotsOffTarget": 4.13,
+    "blockedShots": 2.98,
+    "possession": 48.71,
+    "corners": 5.1,
+    "offsides": 1.91,
+    "fouls": 12.12,
+    "yellowCards": 1.73,
+    "redCards": 0.07,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 418.59,
+    "accuratePasses": 335.23,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.32
+  },
+  "lastDate": "2025-11-08"
+}

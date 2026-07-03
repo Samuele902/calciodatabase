@@ -1,0 +1,42 @@
+{
+  "team": "KFUM Oslo",
+  "teamId": 786,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 30,
+  "record": {
+    "w": 17,
+    "d": 7,
+    "l": 6,
+    "points": 58
+  },
+  "goals": {
+    "for": 1.7,
+    "against": 1.03,
+    "total": 2.73
+  },
+  "rates": {
+    "over25": 0.43,
+    "btts": 0.47
+  },
+  "avgStats": {
+    "xg": 1.55,
+    "shots": 12.5,
+    "shotsOnTarget": 4.07,
+    "shotsOffTarget": 4.7,
+    "blockedShots": 3.53,
+    "possession": 52.33,
+    "corners": 5.77,
+    "offsides": 1.93,
+    "fouls": 11.07,
+    "yellowCards": 1.23,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 504.2,
+    "accuratePasses": 423.73,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.33
+  },
+  "lastDate": "2023-11-12"
+}

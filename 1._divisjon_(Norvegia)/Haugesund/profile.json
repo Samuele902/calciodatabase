@@ -1,0 +1,42 @@
+{
+  "team": "Haugesund",
+  "teamId": 673,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 12,
+  "record": {
+    "w": 9,
+    "d": 1,
+    "l": 2,
+    "points": 28
+  },
+  "goals": {
+    "for": 3.25,
+    "against": 1.67,
+    "total": 4.92
+  },
+  "rates": {
+    "over25": 0.75,
+    "btts": 0.75
+  },
+  "avgStats": {
+    "xg": 2.42,
+    "shots": 15.58,
+    "shotsOnTarget": 7.33,
+    "shotsOffTarget": 4,
+    "blockedShots": 3.75,
+    "possession": 58.67,
+    "corners": 6.17,
+    "offsides": 2.42,
+    "fouls": 13.92,
+    "yellowCards": 1.67,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 522.42,
+    "accuratePasses": 432.17,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.5
+  },
+  "lastDate": "2026-06-27"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Hødd IL",
+  "teamId": 680,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 75,
+  "record": {
+    "w": 21,
+    "d": 21,
+    "l": 33,
+    "points": 84
+  },
+  "goals": {
+    "for": 1.09,
+    "against": 1.48,
+    "total": 2.57
+  },
+  "rates": {
+    "over25": 0.52,
+    "btts": 0.56
+  },
+  "avgStats": {
+    "xg": 1.24,
+    "shots": 10.09,
+    "shotsOnTarget": 3.52,
+    "shotsOffTarget": 3.8,
+    "blockedShots": 2.56,
+    "possession": 46.24,
+    "corners": 4.64,
+    "offsides": 1.61,
+    "fouls": 12.48,
+    "yellowCards": 1.6,
+    "redCards": 0.03,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 392.33,
+    "accuratePasses": 317.19,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.12
+  },
+  "lastDate": "2026-06-27"
+}

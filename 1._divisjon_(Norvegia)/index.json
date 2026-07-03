@@ -1,168 +1,186 @@
 {
   "league": "1. divisjon (Norvegia)",
-  "tournamentId": 1420,
-  "matches": 554,
+  "tournamentId": 22,
+  "matches": 836,
   "teams": [
     {
-      "team": "Ryger Stavanger",
-      "teamId": 456526,
-      "dir": "Ryger_Stavanger",
-      "matches": 81
+      "team": "Moss FK",
+      "teamId": 662,
+      "dir": "Moss_FK",
+      "matches": 105
     },
     {
-      "team": "Melhus IL",
-      "teamId": 422893,
-      "dir": "Melhus_IL",
-      "matches": 79
+      "team": "Åsane",
+      "teamId": 682,
+      "dir": "Åsane",
+      "matches": 104
     },
     {
-      "team": "Grenland Topphaandballklubb",
-      "teamId": 483323,
-      "dir": "Grenland_Topphaandballklubb",
+      "team": "Ranheim IL",
+      "teamId": 708,
+      "dir": "Ranheim_IL",
+      "matches": 103
+    },
+    {
+      "team": "Kongsvinger",
+      "teamId": 672,
+      "dir": "Kongsvinger",
+      "matches": 103
+    },
+    {
+      "team": "Raufoss",
+      "teamId": 668,
+      "dir": "Raufoss",
+      "matches": 103
+    },
+    {
+      "team": "Sogndal IL",
+      "teamId": 665,
+      "dir": "Sogndal_IL",
+      "matches": 102
+    },
+    {
+      "team": "Mjøndalen IF",
+      "teamId": 903,
+      "dir": "Mjøndalen_IF",
+      "matches": 92
+    },
+    {
+      "team": "IK Start",
+      "teamId": 667,
+      "dir": "IK_Start",
+      "matches": 90
+    },
+    {
+      "team": "Lyn FK",
+      "teamId": 657,
+      "dir": "Lyn_FK",
       "matches": 78
     },
     {
-      "team": "Bergsoey IL",
-      "teamId": 483322,
-      "dir": "Bergsoey_IL",
-      "matches": 78
+      "team": "Hødd IL",
+      "teamId": 680,
+      "dir": "Hødd_IL",
+      "matches": 75
     },
     {
-      "team": "Charlottenlund SK",
-      "teamId": 205214,
-      "dir": "Charlottenlund_SK",
-      "matches": 78
+      "team": "Stabæk Fotball",
+      "teamId": 1162,
+      "dir": "Stabæk_Fotball",
+      "matches": 73
     },
     {
-      "team": "Bodø",
-      "teamId": 4036,
-      "dir": "Bodø",
-      "matches": 77
+      "team": "Sandnes Ulf",
+      "teamId": 929,
+      "dir": "Sandnes_Ulf",
+      "matches": 73
     },
     {
-      "team": "Viking TIF",
-      "teamId": 117708,
-      "dir": "Viking_TIF",
-      "matches": 53
+      "team": "Egersund",
+      "teamId": 920,
+      "dir": "Egersund",
+      "matches": 73
     },
     {
-      "team": "Asane",
-      "teamId": 392112,
-      "dir": "Asane",
-      "matches": 52
+      "team": "Bryne FK",
+      "teamId": 663,
+      "dir": "Bryne_FK",
+      "matches": 73
     },
     {
-      "team": "Tiller IL",
-      "teamId": 390109,
-      "dir": "Tiller_IL",
-      "matches": 52
+      "team": "Skeid",
+      "teamId": 679,
+      "dir": "Skeid",
+      "matches": 60
     },
     {
-      "team": "ROS",
-      "teamId": 297212,
-      "dir": "ROS",
-      "matches": 52
+      "team": "Aalesunds FK",
+      "teamId": 677,
+      "dir": "Aalesunds_FK",
+      "matches": 60
     },
     {
-      "team": "Falk Horten",
-      "teamId": 68648,
-      "dir": "Falk_Horten",
-      "matches": 52
+      "team": "Odds BK",
+      "teamId": 659,
+      "dir": "Odds_BK",
+      "matches": 43
     },
     {
-      "team": "Sandefjord Handball",
-      "teamId": 4028,
-      "dir": "Sandefjord_Handball",
-      "matches": 52
+      "team": "FK Jerv",
+      "teamId": 862,
+      "dir": "FK_Jerv",
+      "matches": 34
     },
     {
-      "team": "Lillestroem HK",
-      "teamId": 1103276,
-      "dir": "Lillestroem_HK",
-      "matches": 29
+      "team": "Vålerenga IF",
+      "teamId": 1165,
+      "dir": "Vålerenga_IF",
+      "matches": 30
     },
     {
-      "team": "Nøtterøy",
-      "teamId": 7370,
-      "dir": "Nøtterøy",
-      "matches": 28
+      "team": "Kristiansund BK",
+      "teamId": 957,
+      "dir": "Kristiansund_BK",
+      "matches": 30
     },
     {
-      "team": "Bjoernar",
-      "teamId": 1103277,
-      "dir": "Bjoernar",
-      "matches": 26
+      "team": "Levanger FK",
+      "teamId": 866,
+      "dir": "Levanger_FK",
+      "matches": 30
     },
     {
-      "team": "HK-72 Sande",
-      "teamId": 526983,
-      "dir": "HK-72_Sande",
-      "matches": 25
+      "team": "KFUM Oslo",
+      "teamId": 786,
+      "dir": "KFUM_Oslo",
+      "matches": 30
     },
     {
-      "team": "Storhamar",
-      "teamId": 413523,
-      "dir": "Storhamar",
-      "matches": 26
+      "team": "Fredrikstad FK",
+      "teamId": 687,
+      "dir": "Fredrikstad_FK",
+      "matches": 30
     },
     {
-      "team": "Randesund",
-      "teamId": 413522,
-      "dir": "Randesund",
-      "matches": 26
+      "team": "Lillestrøm SK",
+      "teamId": 664,
+      "dir": "Lillestrøm_SK",
+      "matches": 30
     },
     {
-      "team": "Nordstrand",
-      "teamId": 340395,
-      "dir": "Nordstrand",
-      "matches": 26
+      "team": "Strømsgodset",
+      "teamId": 1163,
+      "dir": "Strømsgodset",
+      "matches": 13
     },
     {
-      "team": "Oslo Studentenes IK",
-      "teamId": 263961,
-      "dir": "Oslo_Studentenes_IK",
-      "matches": 26
+      "team": "Strømmen IF",
+      "teamId": 885,
+      "dir": "Strømmen_IF",
+      "matches": 13
     },
     {
-      "team": "Kragerø IF",
-      "teamId": 190260,
-      "dir": "Kragerø_IF",
-      "matches": 26
+      "team": "Haugesund",
+      "teamId": 673,
+      "dir": "Haugesund",
+      "matches": 12
     },
     {
-      "team": "Haslum HK",
-      "teamId": 4064,
-      "dir": "Haslum_HK",
-      "matches": 26
+      "team": "Brattvåg",
+      "teamId": 954,
+      "dir": "Brattvåg",
+      "matches": 4
     },
     {
-      "team": "Follo HK",
-      "teamId": 4039,
-      "dir": "Follo_HK",
-      "matches": 26
+      "team": "Tromsdalen UIL",
+      "teamId": 669,
+      "dir": "Tromsdalen_UIL",
+      "matches": 4
     },
     {
-      "team": "Fyllingen",
-      "teamId": 4033,
-      "dir": "Fyllingen",
-      "matches": 26
-    },
-    {
-      "team": "Varhaug IL",
-      "teamId": 1216576,
-      "dir": "Varhaug_IL",
-      "matches": 2
-    },
-    {
-      "team": "Reistad",
-      "teamId": 1216574,
-      "dir": "Reistad",
-      "matches": 2
-    },
-    {
-      "team": "Kjelsås",
-      "teamId": 341752,
-      "dir": "Kjelsås",
+      "team": "Grorud",
+      "teamId": 7320,
+      "dir": "Grorud",
       "matches": 2
     }
   ]

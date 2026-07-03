@@ -1,0 +1,42 @@
+{
+  "team": "Kristiansund BK",
+  "teamId": 957,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 30,
+  "record": {
+    "w": 14,
+    "d": 8,
+    "l": 8,
+    "points": 50
+  },
+  "goals": {
+    "for": 1.87,
+    "against": 1.27,
+    "total": 3.13
+  },
+  "rates": {
+    "over25": 0.57,
+    "btts": 0.6
+  },
+  "avgStats": {
+    "xg": 1.81,
+    "shots": 13.33,
+    "shotsOnTarget": 4.67,
+    "shotsOffTarget": 4.73,
+    "blockedShots": 3.63,
+    "possession": 51.83,
+    "corners": 6.23,
+    "offsides": 1.7,
+    "fouls": 9.1,
+    "yellowCards": 1.33,
+    "redCards": 0.07,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 456.7,
+    "accuratePasses": 380.37,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.93
+  },
+  "lastDate": "2023-11-12"
+}

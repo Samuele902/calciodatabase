@@ -1,0 +1,42 @@
+{
+  "team": "Odds BK",
+  "teamId": 659,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 43,
+  "record": {
+    "w": 15,
+    "d": 12,
+    "l": 16,
+    "points": 57
+  },
+  "goals": {
+    "for": 1.47,
+    "against": 1.53,
+    "total": 3
+  },
+  "rates": {
+    "over25": 0.58,
+    "btts": 0.65
+  },
+  "avgStats": {
+    "xg": 1.38,
+    "shots": 11.74,
+    "shotsOnTarget": 4.3,
+    "shotsOffTarget": 3.53,
+    "blockedShots": 3.65,
+    "possession": 54.23,
+    "corners": 5.58,
+    "offsides": 1.44,
+    "fouls": 12.37,
+    "yellowCards": 1.67,
+    "redCards": 0.05,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 463.6,
+    "accuratePasses": 387.49,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.28
+  },
+  "lastDate": "2026-06-27"
+}

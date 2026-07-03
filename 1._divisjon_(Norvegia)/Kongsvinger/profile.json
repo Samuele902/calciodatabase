@@ -1,0 +1,42 @@
+{
+  "team": "Kongsvinger",
+  "teamId": 672,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 103,
+  "record": {
+    "w": 50,
+    "d": 27,
+    "l": 26,
+    "points": 177
+  },
+  "goals": {
+    "for": 1.86,
+    "against": 1.47,
+    "total": 3.33
+  },
+  "rates": {
+    "over25": 0.69,
+    "btts": 0.67
+  },
+  "avgStats": {
+    "xg": 1.8,
+    "shots": 14.09,
+    "shotsOnTarget": 5.35,
+    "shotsOffTarget": 4.3,
+    "blockedShots": 4.18,
+    "possession": 54.18,
+    "corners": 5.95,
+    "offsides": 1.93,
+    "fouls": 12.46,
+    "yellowCards": 1.58,
+    "redCards": 0.07,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 505.09,
+    "accuratePasses": 418.71,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.59
+  },
+  "lastDate": "2026-06-27"
+}

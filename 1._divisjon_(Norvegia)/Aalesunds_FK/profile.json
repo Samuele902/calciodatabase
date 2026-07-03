@@ -1,0 +1,42 @@
+{
+  "team": "Aalesunds FK",
+  "teamId": 677,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 60,
+  "record": {
+    "w": 26,
+    "d": 14,
+    "l": 20,
+    "points": 92
+  },
+  "goals": {
+    "for": 1.68,
+    "against": 1.4,
+    "total": 3.08
+  },
+  "rates": {
+    "over25": 0.55,
+    "btts": 0.52
+  },
+  "avgStats": {
+    "xg": 1.8,
+    "shots": 13.68,
+    "shotsOnTarget": 5.03,
+    "shotsOffTarget": 4.42,
+    "blockedShots": 3.87,
+    "possession": 48.42,
+    "corners": 6.58,
+    "offsides": 1.72,
+    "fouls": 12.15,
+    "yellowCards": 1.72,
+    "redCards": 0.1,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 390.15,
+    "accuratePasses": 312.68,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.92
+  },
+  "lastDate": "2025-11-08"
+}
