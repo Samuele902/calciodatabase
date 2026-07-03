@@ -1,0 +1,42 @@
+{
+  "team": "Beijing Guoan",
+  "teamId": 3376,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 53,
+    "d": 28,
+    "l": 25,
+    "points": 187
+  },
+  "goals": {
+    "for": 2.02,
+    "against": 1.31,
+    "total": 3.33
+  },
+  "rates": {
+    "over25": 0.61,
+    "btts": 0.64
+  },
+  "avgStats": {
+    "xg": 1.77,
+    "shots": 13.93,
+    "shotsOnTarget": 5.35,
+    "shotsOffTarget": 5.18,
+    "blockedShots": 3.41,
+    "possession": 59.24,
+    "corners": 5.74,
+    "offsides": 1.97,
+    "fouls": 12.87,
+    "yellowCards": 2,
+    "redCards": 0.65,
+    "bigChances": 2.91,
+    "bigChancesMissed": 1.81,
+    "passes": 495.45,
+    "accuratePasses": 416.37,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.2
+  },
+  "lastDate": "2026-06-27"
+}

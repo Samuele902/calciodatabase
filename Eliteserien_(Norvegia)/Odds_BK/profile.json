@@ -1,0 +1,42 @@
+{
+  "team": "Odds BK",
+  "teamId": 659,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 60,
+  "record": {
+    "w": 15,
+    "d": 16,
+    "l": 29,
+    "points": 61
+  },
+  "goals": {
+    "for": 1.13,
+    "against": 1.63,
+    "total": 2.77
+  },
+  "rates": {
+    "over25": 0.53,
+    "btts": 0.52
+  },
+  "avgStats": {
+    "xg": 1.24,
+    "shots": 10.12,
+    "shotsOnTarget": 3.38,
+    "shotsOffTarget": 3.93,
+    "blockedShots": 2.8,
+    "possession": 45.7,
+    "corners": 3.93,
+    "offsides": 1.05,
+    "fouls": 10.13,
+    "yellowCards": 1.9,
+    "redCards": 0.71,
+    "bigChances": 1.9,
+    "bigChancesMissed": 1.4,
+    "passes": 418.53,
+    "accuratePasses": 337.13,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.24
+  },
+  "lastDate": "2024-12-01"
+}

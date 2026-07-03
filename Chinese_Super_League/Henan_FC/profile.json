@@ -1,0 +1,42 @@
+{
+  "team": "Henan FC",
+  "teamId": 34692,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 34,
+    "d": 28,
+    "l": 44,
+    "points": 130
+  },
+  "goals": {
+    "for": 1.33,
+    "against": 1.39,
+    "total": 2.72
+  },
+  "rates": {
+    "over25": 0.52,
+    "btts": 0.58
+  },
+  "avgStats": {
+    "xg": 1.47,
+    "shots": 12.41,
+    "shotsOnTarget": 4.18,
+    "shotsOffTarget": 5.33,
+    "blockedShots": 2.91,
+    "possession": 49.57,
+    "corners": 5.52,
+    "offsides": 2.23,
+    "fouls": 14.27,
+    "yellowCards": 2.12,
+    "redCards": 0.58,
+    "bigChances": 2.19,
+    "bigChancesMissed": 1.49,
+    "passes": 364.03,
+    "accuratePasses": 282.81,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.92
+  },
+  "lastDate": "2026-06-27"
+}

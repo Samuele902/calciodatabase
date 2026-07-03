@@ -2,41 +2,41 @@
   "team": "Degerfors IF",
   "teamId": 1807,
   "league": "Allsvenskan (Svezia)",
-  "matches": 10,
+  "matches": 70,
   "record": {
-    "w": 2,
-    "d": 4,
-    "l": 4,
-    "points": 10
+    "w": 17,
+    "d": 15,
+    "l": 38,
+    "points": 66
   },
   "goals": {
-    "for": 1.2,
-    "against": 1.6,
-    "total": 2.8
+    "for": 1.07,
+    "against": 1.86,
+    "total": 2.93
   },
   "rates": {
     "over25": 0.6,
-    "btts": 0.7
+    "btts": 0.59
   },
   "avgStats": {
-    "xg": 1.05,
-    "shots": 11.9,
-    "shotsOnTarget": 3.5,
-    "shotsOffTarget": 4.4,
-    "blockedShots": 4,
-    "possession": 49,
-    "corners": 4.3,
-    "offsides": 1.6,
-    "fouls": 14.4,
-    "yellowCards": 2,
-    "redCards": null,
-    "bigChances": 1.4,
-    "bigChancesMissed": 0.75,
-    "passes": 411.9,
-    "accuratePasses": 320.4,
+    "xg": 1.27,
+    "shots": 12.27,
+    "shotsOnTarget": 3.69,
+    "shotsOffTarget": 5.07,
+    "blockedShots": 3.51,
+    "possession": 44.56,
+    "corners": 4.49,
+    "offsides": 1.78,
+    "fouls": 12.51,
+    "yellowCards": 2.04,
+    "redCards": 0.67,
+    "bigChances": 1.51,
+    "bigChancesMissed": 1.05,
+    "passes": 381.03,
+    "accuratePasses": 297.07,
     "tackles": null,
     "interceptions": null,
-    "saves": 2.7
+    "saves": 3.07
   },
   "lastDate": "2026-05-31"
 }

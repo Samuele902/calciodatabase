@@ -1,27 +1,51 @@
 {
-  "generatedForMatches": 478,
+  "generatedForMatches": 3468,
   "span": {
-    "a": "2024-04-06",
+    "a": "2023-04-01",
     "b": "2026-07-02"
   },
-  "teamStatRows": 2068,
-  "playerStatRows": 15636,
+  "teamStatRows": 17900,
+  "playerStatRows": 121509,
   "leagues": [
     {
-      "tournamentId": 188,
-      "tournament": "Besta deild karla (Islanda)",
-      "matches": 397,
-      "seasons": 3,
-      "firstDate": "2024-04-06",
-      "lastDate": "2026-07-02"
+      "tournamentId": 649,
+      "tournament": "Chinese Super League",
+      "matches": 848,
+      "seasons": 4,
+      "firstDate": "2023-04-15",
+      "lastDate": "2026-06-28"
+    },
+    {
+      "tournamentId": 20,
+      "tournament": "Eliteserien (Norvegia)",
+      "matches": 823,
+      "seasons": 4,
+      "firstDate": "2023-04-10",
+      "lastDate": "2026-05-30"
     },
     {
       "tournamentId": 40,
       "tournament": "Allsvenskan (Svezia)",
-      "matches": 81,
-      "seasons": 1,
-      "firstDate": "2026-04-04",
+      "matches": 807,
+      "seasons": 4,
+      "firstDate": "2023-04-01",
       "lastDate": "2026-05-31"
+    },
+    {
+      "tournamentId": 1420,
+      "tournament": "1. divisjon (Norvegia)",
+      "matches": 554,
+      "seasons": 3,
+      "firstDate": "2023-09-02",
+      "lastDate": "2026-05-03"
+    },
+    {
+      "tournamentId": 188,
+      "tournament": "Besta deild karla (Islanda)",
+      "matches": 436,
+      "seasons": 4,
+      "firstDate": "2023-08-06",
+      "lastDate": "2026-07-02"
     }
   ]
 }

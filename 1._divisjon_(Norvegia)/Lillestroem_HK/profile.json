@@ -1,0 +1,42 @@
+{
+  "team": "Lillestroem HK",
+  "teamId": 1103276,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 29,
+  "record": {
+    "w": 11,
+    "d": 4,
+    "l": 14,
+    "points": 37
+  },
+  "goals": {
+    "for": 29.72,
+    "against": 30.03,
+    "total": 59.76
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-28"
+}

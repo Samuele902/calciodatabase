@@ -1,0 +1,42 @@
+{
+  "team": "Dalian Pro",
+  "teamId": 49936,
+  "league": "Chinese Super League",
+  "matches": 30,
+  "record": {
+    "w": 3,
+    "d": 11,
+    "l": 16,
+    "points": 20
+  },
+  "goals": {
+    "for": 0.83,
+    "against": 1.57,
+    "total": 2.4
+  },
+  "rates": {
+    "over25": 0.5,
+    "btts": 0.6
+  },
+  "avgStats": {
+    "xg": 1.07,
+    "shots": 10.53,
+    "shotsOnTarget": 3.33,
+    "shotsOffTarget": 4.3,
+    "blockedShots": 2.9,
+    "possession": 43.27,
+    "corners": 4.1,
+    "offsides": 1.71,
+    "fouls": 14.47,
+    "yellowCards": 2.07,
+    "redCards": 0.83,
+    "bigChances": 1.57,
+    "bigChancesMissed": 1.13,
+    "passes": 312.47,
+    "accuratePasses": 213.63,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.13
+  },
+  "lastDate": "2023-11-04"
+}

@@ -2,41 +2,41 @@
   "team": "KR Reykjavík",
   "teamId": 1902,
   "league": "Besta deild karla (Islanda)",
-  "matches": 68,
+  "matches": 75,
   "record": {
-    "w": 26,
-    "d": 16,
-    "l": 26,
-    "points": 94
+    "w": 29,
+    "d": 18,
+    "l": 28,
+    "points": 105
   },
   "goals": {
-    "for": 2.34,
-    "against": 2.13,
-    "total": 4.47
+    "for": 2.33,
+    "against": 2.16,
+    "total": 4.49
   },
   "rates": {
     "over25": 0.81,
     "btts": 0.81
   },
   "avgStats": {
-    "xg": 1.95,
-    "shots": 16.98,
-    "shotsOnTarget": 6.82,
-    "shotsOffTarget": 5.88,
-    "blockedShots": 4.25,
-    "possession": 61.29,
-    "corners": 7.11,
-    "offsides": 2.05,
-    "fouls": 11.16,
-    "yellowCards": 2.34,
-    "redCards": 0.23,
+    "xg": 1.96,
+    "shots": 16.75,
+    "shotsOnTarget": 6.68,
+    "shotsOffTarget": 5.7,
+    "blockedShots": 4.29,
+    "possession": 59.83,
+    "corners": 7.25,
+    "offsides": 1.95,
+    "fouls": 11.03,
+    "yellowCards": 2.33,
+    "redCards": 0.17,
     "bigChances": 3.1,
     "bigChancesMissed": 1.76,
-    "passes": 497.34,
-    "accuratePasses": 412.75,
+    "passes": 487.25,
+    "accuratePasses": 402.84,
     "tackles": null,
     "interceptions": null,
-    "saves": 3
+    "saves": 3.02
   },
   "lastDate": "2026-07-02"
 }

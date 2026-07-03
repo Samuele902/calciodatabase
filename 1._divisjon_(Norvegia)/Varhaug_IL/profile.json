@@ -1,0 +1,42 @@
+{
+  "team": "Varhaug IL",
+  "teamId": 1216576,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 2,
+  "record": {
+    "w": 1,
+    "d": 0,
+    "l": 1,
+    "points": 3
+  },
+  "goals": {
+    "for": 35,
+    "against": 31,
+    "total": 66
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": null,
+    "redCards": null,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-05-01"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Cangzhou Mighty Lions",
+  "teamId": 66440,
+  "league": "Chinese Super League",
+  "matches": 60,
+  "record": {
+    "w": 15,
+    "d": 15,
+    "l": 30,
+    "points": 60
+  },
+  "goals": {
+    "for": 1.03,
+    "against": 1.95,
+    "total": 2.98
+  },
+  "rates": {
+    "over25": 0.5,
+    "btts": 0.57
+  },
+  "avgStats": {
+    "xg": 1.13,
+    "shots": 10.5,
+    "shotsOnTarget": 3.5,
+    "shotsOffTarget": 4.38,
+    "blockedShots": 2.62,
+    "possession": 40.03,
+    "corners": 4,
+    "offsides": 1.98,
+    "fouls": 9.8,
+    "yellowCards": 2.07,
+    "redCards": 0.57,
+    "bigChances": 1.61,
+    "bigChancesMissed": 1.11,
+    "passes": 353.45,
+    "accuratePasses": 280.82,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.53
+  },
+  "lastDate": "2024-11-02"
+}

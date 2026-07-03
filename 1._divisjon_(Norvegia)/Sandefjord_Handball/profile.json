@@ -1,0 +1,42 @@
+{
+  "team": "Sandefjord Handball",
+  "teamId": 4028,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 52,
+  "record": {
+    "w": 40,
+    "d": 3,
+    "l": 9,
+    "points": 123
+  },
+  "goals": {
+    "for": 31.5,
+    "against": 26.06,
+    "total": 57.56
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1.1,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2025-04-05"
+}

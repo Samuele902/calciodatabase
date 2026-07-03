@@ -1,0 +1,42 @@
+{
+  "team": "Tromsø IL",
+  "teamId": 660,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 103,
+  "record": {
+    "w": 53,
+    "d": 17,
+    "l": 33,
+    "points": 176
+  },
+  "goals": {
+    "for": 1.46,
+    "against": 1.23,
+    "total": 2.69
+  },
+  "rates": {
+    "over25": 0.53,
+    "btts": 0.48
+  },
+  "avgStats": {
+    "xg": 1.53,
+    "shots": 11.78,
+    "shotsOnTarget": 4.47,
+    "shotsOffTarget": 4.31,
+    "blockedShots": 3.01,
+    "possession": 48.4,
+    "corners": 4.34,
+    "offsides": 1.49,
+    "fouls": 10.99,
+    "yellowCards": 1.59,
+    "redCards": 0.45,
+    "bigChances": 2.35,
+    "bigChancesMissed": 1.58,
+    "passes": 480.26,
+    "accuratePasses": 398,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.56
+  },
+  "lastDate": "2026-05-29"
+}

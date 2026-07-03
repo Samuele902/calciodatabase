@@ -1,0 +1,42 @@
+{
+  "team": "Viking FK",
+  "teamId": 1164,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 100,
+  "record": {
+    "w": 65,
+    "d": 18,
+    "l": 17,
+    "points": 213
+  },
+  "goals": {
+    "for": 2.28,
+    "against": 1.33,
+    "total": 3.61
+  },
+  "rates": {
+    "over25": 0.67,
+    "btts": 0.66
+  },
+  "avgStats": {
+    "xg": 1.99,
+    "shots": 15.75,
+    "shotsOnTarget": 5.61,
+    "shotsOffTarget": 6.03,
+    "blockedShots": 4.11,
+    "possession": 52.66,
+    "corners": 6.71,
+    "offsides": 1.64,
+    "fouls": 11.68,
+    "yellowCards": 1.76,
+    "redCards": 0.24,
+    "bigChances": 2.84,
+    "bigChancesMissed": 1.7,
+    "passes": 464.37,
+    "accuratePasses": 377.62,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.4
+  },
+  "lastDate": "2026-05-24"
+}

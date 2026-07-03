@@ -1,0 +1,42 @@
+{
+  "team": "Qingdao Hainiu",
+  "teamId": 34695,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 26,
+    "d": 24,
+    "l": 56,
+    "points": 102
+  },
+  "goals": {
+    "for": 1.16,
+    "against": 1.65,
+    "total": 2.81
+  },
+  "rates": {
+    "over25": 0.46,
+    "btts": 0.47
+  },
+  "avgStats": {
+    "xg": 1.33,
+    "shots": 12.05,
+    "shotsOnTarget": 3.85,
+    "shotsOffTarget": 5.31,
+    "blockedShots": 2.89,
+    "possession": 44.96,
+    "corners": 4.08,
+    "offsides": 1.93,
+    "fouls": 13.55,
+    "yellowCards": 2.17,
+    "redCards": 0.67,
+    "bigChances": 1.92,
+    "bigChancesMissed": 1.21,
+    "passes": 368.62,
+    "accuratePasses": 288.12,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.6
+  },
+  "lastDate": "2026-06-26"
+}

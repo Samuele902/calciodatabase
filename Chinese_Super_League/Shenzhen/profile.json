@@ -1,0 +1,42 @@
+{
+  "team": "Shenzhen",
+  "teamId": 3370,
+  "league": "Chinese Super League",
+  "matches": 30,
+  "record": {
+    "w": 3,
+    "d": 3,
+    "l": 24,
+    "points": 12
+  },
+  "goals": {
+    "for": 0.73,
+    "against": 2.63,
+    "total": 3.37
+  },
+  "rates": {
+    "over25": 0.73,
+    "btts": 0.5
+  },
+  "avgStats": {
+    "xg": 0.71,
+    "shots": 7.33,
+    "shotsOnTarget": 2.37,
+    "shotsOffTarget": 2.9,
+    "blockedShots": 2.07,
+    "possession": 43.1,
+    "corners": 3.03,
+    "offsides": 1.71,
+    "fouls": 12.1,
+    "yellowCards": 1.97,
+    "redCards": 0.63,
+    "bigChances": 0.96,
+    "bigChancesMissed": 0.5,
+    "passes": 351.37,
+    "accuratePasses": 273.97,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 4.07
+  },
+  "lastDate": "2023-11-04"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Fyllingen",
+  "teamId": 4033,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 26,
+  "record": {
+    "w": 9,
+    "d": 2,
+    "l": 15,
+    "points": 29
+  },
+  "goals": {
+    "for": 28.85,
+    "against": 30.04,
+    "total": 58.88
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2024-04-13"
+}

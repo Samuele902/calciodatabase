@@ -1,0 +1,42 @@
+{
+  "team": "Charlottenlund SK",
+  "teamId": 205214,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 78,
+  "record": {
+    "w": 47,
+    "d": 3,
+    "l": 28,
+    "points": 144
+  },
+  "goals": {
+    "for": 30.92,
+    "against": 28.72,
+    "total": 59.64
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 0.93,
+    "redCards": 0.5,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-12"
+}

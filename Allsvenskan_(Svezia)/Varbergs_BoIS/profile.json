@@ -1,0 +1,42 @@
+{
+  "team": "Varbergs BoIS",
+  "teamId": 7101,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 30,
+  "record": {
+    "w": 3,
+    "d": 6,
+    "l": 21,
+    "points": 15
+  },
+  "goals": {
+    "for": 0.87,
+    "against": 2.23,
+    "total": 3.1
+  },
+  "rates": {
+    "over25": 0.6,
+    "btts": 0.47
+  },
+  "avgStats": {
+    "xg": 1.11,
+    "shots": 12.2,
+    "shotsOnTarget": 3.27,
+    "shotsOffTarget": 5,
+    "blockedShots": 3.93,
+    "possession": 43.2,
+    "corners": 4.43,
+    "offsides": 1.25,
+    "fouls": 16.7,
+    "yellowCards": 2.37,
+    "redCards": 0.25,
+    "bigChances": 1.14,
+    "bigChancesMissed": 0.73,
+    "passes": 355.83,
+    "accuratePasses": 265.87,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.7
+  },
+  "lastDate": "2023-11-12"
+}

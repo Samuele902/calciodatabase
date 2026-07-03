@@ -1,0 +1,42 @@
+{
+  "team": "Moss FK",
+  "teamId": 662,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 3,
+  "record": {
+    "w": 1,
+    "d": 1,
+    "l": 1,
+    "points": 4
+  },
+  "goals": {
+    "for": 1,
+    "against": 1.33,
+    "total": 2.33
+  },
+  "rates": {
+    "over25": 0.33,
+    "btts": 0.33
+  },
+  "avgStats": {
+    "xg": 1.28,
+    "shots": 11,
+    "shotsOnTarget": 5,
+    "shotsOffTarget": 3.67,
+    "blockedShots": 2.33,
+    "possession": 46.67,
+    "corners": 4,
+    "offsides": 1.33,
+    "fouls": 11.33,
+    "yellowCards": 2,
+    "redCards": 0.5,
+    "bigChances": 0.5,
+    "bigChancesMissed": 1,
+    "passes": 403.33,
+    "accuratePasses": 305.33,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 5.33
+  },
+  "lastDate": "2024-12-08"
+}

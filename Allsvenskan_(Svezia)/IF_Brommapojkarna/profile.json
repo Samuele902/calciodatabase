@@ -2,41 +2,41 @@
   "team": "IF Brommapojkarna",
   "teamId": 1787,
   "league": "Allsvenskan (Svezia)",
-  "matches": 10,
+  "matches": 102,
   "record": {
-    "w": 4,
-    "d": 3,
-    "l": 3,
-    "points": 15
+    "w": 32,
+    "d": 21,
+    "l": 49,
+    "points": 117
   },
   "goals": {
-    "for": 1.5,
-    "against": 1.6,
-    "total": 3.1
+    "for": 1.45,
+    "against": 1.66,
+    "total": 3.11
   },
   "rates": {
-    "over25": 0.8,
-    "btts": 0.7
+    "over25": 0.61,
+    "btts": 0.58
   },
   "avgStats": {
-    "xg": 1.42,
-    "shots": 11.6,
-    "shotsOnTarget": 4.4,
-    "shotsOffTarget": 3.8,
-    "blockedShots": 3.4,
-    "possession": 46.1,
-    "corners": 4.5,
-    "offsides": 2.22,
-    "fouls": 10.4,
-    "yellowCards": 1.8,
-    "redCards": 1,
-    "bigChances": 2.3,
-    "bigChancesMissed": 1.8,
-    "passes": 449.9,
-    "accuratePasses": 372.9,
+    "xg": 1.47,
+    "shots": 13.12,
+    "shotsOnTarget": 4.52,
+    "shotsOffTarget": 5.15,
+    "blockedShots": 3.45,
+    "possession": 47.25,
+    "corners": 4.87,
+    "offsides": 1.77,
+    "fouls": 12.03,
+    "yellowCards": 1.6,
+    "redCards": 0.38,
+    "bigChances": 1.95,
+    "bigChancesMissed": 1.42,
+    "passes": 442.31,
+    "accuratePasses": 361.27,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.3
+    "saves": 3.17
   },
   "lastDate": "2026-05-31"
 }

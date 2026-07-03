@@ -1,0 +1,42 @@
+{
+  "team": "Fredrikstad FK",
+  "teamId": 687,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 71,
+  "record": {
+    "w": 29,
+    "d": 20,
+    "l": 22,
+    "points": 107
+  },
+  "goals": {
+    "for": 1.3,
+    "against": 1.27,
+    "total": 2.56
+  },
+  "rates": {
+    "over25": 0.45,
+    "btts": 0.48
+  },
+  "avgStats": {
+    "xg": 1.38,
+    "shots": 11.41,
+    "shotsOnTarget": 3.96,
+    "shotsOffTarget": 4.35,
+    "blockedShots": 3.1,
+    "possession": 44.72,
+    "corners": 4.63,
+    "offsides": 1.81,
+    "fouls": 10.3,
+    "yellowCards": 1.52,
+    "redCards": 0.5,
+    "bigChances": 1.96,
+    "bigChancesMissed": 1.38,
+    "passes": 394.46,
+    "accuratePasses": 302.99,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.37
+  },
+  "lastDate": "2026-05-29"
+}

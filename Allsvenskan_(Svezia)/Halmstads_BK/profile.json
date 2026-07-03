@@ -2,41 +2,41 @@
   "team": "Halmstads BK",
   "teamId": 1767,
   "league": "Allsvenskan (Svezia)",
-  "matches": 10,
+  "matches": 100,
   "record": {
-    "w": 1,
-    "d": 3,
-    "l": 6,
-    "points": 6
+    "w": 30,
+    "d": 20,
+    "l": 50,
+    "points": 110
   },
   "goals": {
-    "for": 0.9,
-    "against": 2,
-    "total": 2.9
+    "for": 0.95,
+    "against": 1.64,
+    "total": 2.59
   },
   "rates": {
-    "over25": 0.4,
-    "btts": 0.6
+    "over25": 0.48,
+    "btts": 0.43
   },
   "avgStats": {
-    "xg": 1.17,
-    "shots": 12,
-    "shotsOnTarget": 3.2,
-    "shotsOffTarget": 5.2,
-    "blockedShots": 3.6,
-    "possession": 40.7,
-    "corners": 2.8,
-    "offsides": 0.8,
-    "fouls": 13.1,
-    "yellowCards": 1.5,
-    "redCards": 0,
-    "bigChances": 1.3,
-    "bigChancesMissed": 1.11,
-    "passes": 367.3,
-    "accuratePasses": 284.5,
+    "xg": 1.14,
+    "shots": 10.13,
+    "shotsOnTarget": 3.23,
+    "shotsOffTarget": 4.28,
+    "blockedShots": 2.62,
+    "possession": 39.35,
+    "corners": 3.78,
+    "offsides": 1.18,
+    "fouls": 11.9,
+    "yellowCards": 1.81,
+    "redCards": 0.75,
+    "bigChances": 1.73,
+    "bigChancesMissed": 1.2,
+    "passes": 361.32,
+    "accuratePasses": 274.28,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.5
+    "saves": 3.42
   },
   "lastDate": "2026-05-30"
 }

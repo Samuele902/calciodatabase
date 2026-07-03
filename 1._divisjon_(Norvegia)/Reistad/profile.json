@@ -1,0 +1,42 @@
+{
+  "team": "Reistad",
+  "teamId": 1216574,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 2,
+  "record": {
+    "w": 0,
+    "d": 0,
+    "l": 2,
+    "points": 0
+  },
+  "goals": {
+    "for": 30,
+    "against": 37.5,
+    "total": 67.5
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": null,
+    "redCards": null,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-05-01"
+}

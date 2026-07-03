@@ -1,0 +1,666 @@
+[
+  {
+    "matchId": 11418550,
+    "date": "2024-04-13",
+    "season": "1. Division 23/24",
+    "round": 26,
+    "venue": "away",
+    "opponent": "Grenland Topphaandballklubb",
+    "opponentId": 483323,
+    "score": "42-28",
+    "htScore": "23-7",
+    "result": "L",
+    "goalsFor": 28,
+    "goalsAgainst": 42,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418539,
+    "date": "2024-04-06",
+    "season": "1. Division 23/24",
+    "round": 25,
+    "venue": "home",
+    "opponent": "Bergsoey IL",
+    "opponentId": 483322,
+    "score": "25-36",
+    "htScore": "12-20",
+    "result": "L",
+    "goalsFor": 25,
+    "goalsAgainst": 36,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418534,
+    "date": "2024-04-03",
+    "season": "1. Division 23/24",
+    "round": 24,
+    "venue": "away",
+    "opponent": "Melhus IL",
+    "opponentId": 422893,
+    "score": "37-20",
+    "htScore": "21-7",
+    "result": "L",
+    "goalsFor": 20,
+    "goalsAgainst": 37,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418529,
+    "date": "2024-03-23",
+    "season": "1. Division 23/24",
+    "round": 23,
+    "venue": "home",
+    "opponent": "Oslo Studentenes IK",
+    "opponentId": 263961,
+    "score": "28-36",
+    "htScore": "15-17",
+    "result": "L",
+    "goalsFor": 28,
+    "goalsAgainst": 36,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418520,
+    "date": "2024-03-06",
+    "season": "1. Division 23/24",
+    "round": 22,
+    "venue": "away",
+    "opponent": "ROS",
+    "opponentId": 297212,
+    "score": "41-26",
+    "htScore": "19-11",
+    "result": "L",
+    "goalsFor": 26,
+    "goalsAgainst": 41,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418511,
+    "date": "2024-03-02",
+    "season": "1. Division 23/24",
+    "round": 21,
+    "venue": "home",
+    "opponent": "Nøtterøy",
+    "opponentId": 7370,
+    "score": "24-38",
+    "htScore": "11-21",
+    "result": "L",
+    "goalsFor": 24,
+    "goalsAgainst": 38,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418507,
+    "date": "2024-02-28",
+    "season": "1. Division 23/24",
+    "round": 20,
+    "venue": "away",
+    "opponent": "Follo HK",
+    "opponentId": 4039,
+    "score": "36-18",
+    "htScore": "17-10",
+    "result": "L",
+    "goalsFor": 18,
+    "goalsAgainst": 36,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418499,
+    "date": "2024-02-18",
+    "season": "1. Division 23/24",
+    "round": 19,
+    "venue": "home",
+    "opponent": "Sandefjord Handball",
+    "opponentId": 4028,
+    "score": "14-35",
+    "htScore": "6-17",
+    "result": "L",
+    "goalsFor": 14,
+    "goalsAgainst": 35,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418492,
+    "date": "2024-02-10",
+    "season": "1. Division 23/24",
+    "round": 18,
+    "venue": "away",
+    "opponent": "Falk Horten",
+    "opponentId": 68648,
+    "score": "31-17",
+    "htScore": "15-13",
+    "result": "L",
+    "goalsFor": 17,
+    "goalsAgainst": 31,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418487,
+    "date": "2024-01-31",
+    "season": "1. Division 23/24",
+    "round": 17,
+    "venue": "home",
+    "opponent": "Bodø",
+    "opponentId": 4036,
+    "score": "29-40",
+    "htScore": "17-21",
+    "result": "L",
+    "goalsFor": 29,
+    "goalsAgainst": 40,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418477,
+    "date": "2024-01-27",
+    "season": "1. Division 23/24",
+    "round": 16,
+    "venue": "away",
+    "opponent": "Charlottenlund SK",
+    "opponentId": 205214,
+    "score": "34-29",
+    "htScore": "15-18",
+    "result": "L",
+    "goalsFor": 29,
+    "goalsAgainst": 34,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418475,
+    "date": "2024-01-24",
+    "season": "1. Division 23/24",
+    "round": 16,
+    "venue": "home",
+    "opponent": "Fyllingen",
+    "opponentId": 4033,
+    "score": "24-37",
+    "htScore": "11-17",
+    "result": "L",
+    "goalsFor": 24,
+    "goalsAgainst": 37,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418466,
+    "date": "2024-01-17",
+    "season": "1. Division 23/24",
+    "round": 14,
+    "venue": "away",
+    "opponent": "Ryger Stavanger",
+    "opponentId": 456526,
+    "score": "31-19",
+    "htScore": "16-7",
+    "result": "L",
+    "goalsFor": 19,
+    "goalsAgainst": 31,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {
+        "yellowCards": 1
+      },
+      "1ST": {
+        "yellowCards": 1
+      },
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {
+        "yellowCards": 1
+      },
+      "1ST": {
+        "yellowCards": 1
+      },
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418455,
+    "date": "2023-12-16",
+    "season": "1. Division 23/24",
+    "round": 13,
+    "venue": "home",
+    "opponent": "Grenland Topphaandballklubb",
+    "opponentId": 483323,
+    "score": "19-35",
+    "htScore": "11-16",
+    "result": "L",
+    "goalsFor": 19,
+    "goalsAgainst": 35,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418449,
+    "date": "2023-12-09",
+    "season": "1. Division 23/24",
+    "round": 12,
+    "venue": "away",
+    "opponent": "Bergsoey IL",
+    "opponentId": 483322,
+    "score": "38-28",
+    "htScore": "20-11",
+    "result": "L",
+    "goalsFor": 28,
+    "goalsAgainst": 38,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418446,
+    "date": "2023-12-03",
+    "season": "1. Division 23/24",
+    "round": 11,
+    "venue": "home",
+    "opponent": "Melhus IL",
+    "opponentId": 422893,
+    "score": "23-46",
+    "htScore": "12-20",
+    "result": "L",
+    "goalsFor": 23,
+    "goalsAgainst": 46,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {
+        "yellowCards": 1
+      },
+      "1ST": {
+        "yellowCards": 1
+      },
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {
+        "yellowCards": 1
+      },
+      "1ST": {
+        "yellowCards": 1
+      },
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418439,
+    "date": "2023-11-28",
+    "season": "1. Division 23/24",
+    "round": 10,
+    "venue": "away",
+    "opponent": "Oslo Studentenes IK",
+    "opponentId": 263961,
+    "score": "28-22",
+    "htScore": "14-12",
+    "result": "L",
+    "goalsFor": 22,
+    "goalsAgainst": 28,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {
+        "yellowCards": 1
+      },
+      "1ST": {
+        "yellowCards": 1
+      },
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {
+        "yellowCards": 0
+      },
+      "1ST": {
+        "yellowCards": 0
+      },
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418433,
+    "date": "2023-11-25",
+    "season": "1. Division 23/24",
+    "round": 10,
+    "venue": "home",
+    "opponent": "ROS",
+    "opponentId": 297212,
+    "score": "19-35",
+    "htScore": "11-17",
+    "result": "L",
+    "goalsFor": 19,
+    "goalsAgainst": 35,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418426,
+    "date": "2023-11-19",
+    "season": "1. Division 23/24",
+    "round": 9,
+    "venue": "away",
+    "opponent": "Nøtterøy",
+    "opponentId": 7370,
+    "score": "48-23",
+    "htScore": "26-15",
+    "result": "L",
+    "goalsFor": 23,
+    "goalsAgainst": 48,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418414,
+    "date": "2023-10-29",
+    "season": "1. Division 23/24",
+    "round": 7,
+    "venue": "home",
+    "opponent": "Follo HK",
+    "opponentId": 4039,
+    "score": "20-36",
+    "htScore": "7-18",
+    "result": "L",
+    "goalsFor": 20,
+    "goalsAgainst": 36,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418408,
+    "date": "2023-10-22",
+    "season": "1. Division 23/24",
+    "round": 6,
+    "venue": "away",
+    "opponent": "Sandefjord Handball",
+    "opponentId": 4028,
+    "score": "34-26",
+    "htScore": "19-16",
+    "result": "L",
+    "goalsFor": 26,
+    "goalsAgainst": 34,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418399,
+    "date": "2023-10-14",
+    "season": "1. Division 23/24",
+    "round": 5,
+    "venue": "home",
+    "opponent": "Falk Horten",
+    "opponentId": 68648,
+    "score": "23-38",
+    "htScore": "10-23",
+    "result": "L",
+    "goalsFor": 23,
+    "goalsAgainst": 38,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418395,
+    "date": "2023-10-08",
+    "season": "1. Division 23/24",
+    "round": 4,
+    "venue": "away",
+    "opponent": "Bodø",
+    "opponentId": 4036,
+    "score": "48-29",
+    "htScore": "22-10",
+    "result": "L",
+    "goalsFor": 29,
+    "goalsAgainst": 48,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418388,
+    "date": "2023-09-24",
+    "season": "1. Division 23/24",
+    "round": 3,
+    "venue": "home",
+    "opponent": "Charlottenlund SK",
+    "opponentId": 205214,
+    "score": "30-41",
+    "htScore": "13-19",
+    "result": "L",
+    "goalsFor": 30,
+    "goalsAgainst": 41,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418378,
+    "date": "2023-09-17",
+    "season": "1. Division 23/24",
+    "round": 2,
+    "venue": "away",
+    "opponent": "Fyllingen",
+    "opponentId": 4033,
+    "score": "36-29",
+    "htScore": "15-10",
+    "result": "L",
+    "goalsFor": 29,
+    "goalsAgainst": 36,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {},
+    "opponentStats": {},
+    "players": [],
+    "incidents": []
+  },
+  {
+    "matchId": 11418371,
+    "date": "2023-09-02",
+    "season": "1. Division 23/24",
+    "round": 1,
+    "venue": "home",
+    "opponent": "Ryger Stavanger",
+    "opponentId": 456526,
+    "score": "24-24",
+    "htScore": "10-13",
+    "result": "D",
+    "goalsFor": 24,
+    "goalsAgainst": 24,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {
+        "yellowCards": 0
+      },
+      "1ST": {
+        "yellowCards": 0
+      },
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {
+        "yellowCards": 1
+      },
+      "1ST": {
+        "yellowCards": 1
+      },
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": []
+  }
+]

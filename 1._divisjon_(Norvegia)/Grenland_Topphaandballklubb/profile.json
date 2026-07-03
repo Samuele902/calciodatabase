@@ -1,0 +1,42 @@
+{
+  "team": "Grenland Topphaandballklubb",
+  "teamId": 483323,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 78,
+  "record": {
+    "w": 28,
+    "d": 5,
+    "l": 45,
+    "points": 89
+  },
+  "goals": {
+    "for": 27.76,
+    "against": 29.19,
+    "total": 56.95
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 0.88,
+    "redCards": 0.33,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-12"
+}

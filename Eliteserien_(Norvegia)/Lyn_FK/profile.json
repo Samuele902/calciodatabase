@@ -1,0 +1,42 @@
+{
+  "team": "Lyn FK",
+  "teamId": 657,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 1,
+  "record": {
+    "w": 0,
+    "d": 0,
+    "l": 1,
+    "points": 0
+  },
+  "goals": {
+    "for": 1,
+    "against": 2,
+    "total": 3
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": 0.93,
+    "shots": 11,
+    "shotsOnTarget": 6,
+    "shotsOffTarget": 3,
+    "blockedShots": 2,
+    "possession": 39,
+    "corners": 13,
+    "offsides": 1,
+    "fouls": 14,
+    "yellowCards": 2,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 376,
+    "accuratePasses": 261,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 7
+  },
+  "lastDate": "2024-11-17"
+}

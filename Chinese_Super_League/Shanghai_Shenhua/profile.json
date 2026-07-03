@@ -1,0 +1,42 @@
+{
+  "team": "Shanghai Shenhua",
+  "teamId": 3373,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 65,
+    "d": 24,
+    "l": 17,
+    "points": 219
+  },
+  "goals": {
+    "for": 1.95,
+    "against": 1.05,
+    "total": 3
+  },
+  "rates": {
+    "over25": 0.58,
+    "btts": 0.58
+  },
+  "avgStats": {
+    "xg": 1.93,
+    "shots": 15.84,
+    "shotsOnTarget": 5.92,
+    "shotsOffTarget": 6.07,
+    "blockedShots": 3.87,
+    "possession": 51.09,
+    "corners": 6.23,
+    "offsides": 1.97,
+    "fouls": 14.04,
+    "yellowCards": 1.82,
+    "redCards": 0.45,
+    "bigChances": 3.43,
+    "bigChancesMissed": 2.35,
+    "passes": 420.71,
+    "accuratePasses": 342.8,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.26
+  },
+  "lastDate": "2026-06-28"
+}

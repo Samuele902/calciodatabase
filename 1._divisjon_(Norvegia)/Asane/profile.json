@@ -1,0 +1,42 @@
+{
+  "team": "Asane",
+  "teamId": 392112,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 52,
+  "record": {
+    "w": 27,
+    "d": 0,
+    "l": 25,
+    "points": 81
+  },
+  "goals": {
+    "for": 30.96,
+    "against": 30.12,
+    "total": 61.08
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": null,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-12"
+}

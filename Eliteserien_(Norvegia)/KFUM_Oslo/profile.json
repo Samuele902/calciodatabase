@@ -1,0 +1,42 @@
+{
+  "team": "KFUM Oslo",
+  "teamId": 786,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 71,
+  "record": {
+    "w": 20,
+    "d": 24,
+    "l": 27,
+    "points": 84
+  },
+  "goals": {
+    "for": 1.25,
+    "against": 1.32,
+    "total": 2.58
+  },
+  "rates": {
+    "over25": 0.48,
+    "btts": 0.56
+  },
+  "avgStats": {
+    "xg": 1.28,
+    "shots": 10.69,
+    "shotsOnTarget": 3.86,
+    "shotsOffTarget": 3.96,
+    "blockedShots": 2.87,
+    "possession": 49.11,
+    "corners": 4.7,
+    "offsides": 1.37,
+    "fouls": 11.66,
+    "yellowCards": 1.77,
+    "redCards": 0.53,
+    "bigChances": 1.94,
+    "bigChancesMissed": 1.36,
+    "passes": 458.45,
+    "accuratePasses": 370.32,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.08
+  },
+  "lastDate": "2026-05-29"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Qingdao West Coast",
+  "teamId": 369532,
+  "league": "Chinese Super League",
+  "matches": 76,
+  "record": {
+    "w": 22,
+    "d": 27,
+    "l": 27,
+    "points": 93
+  },
+  "goals": {
+    "for": 1.32,
+    "against": 1.64,
+    "total": 2.96
+  },
+  "rates": {
+    "over25": 0.53,
+    "btts": 0.63
+  },
+  "avgStats": {
+    "xg": 1.3,
+    "shots": 10.57,
+    "shotsOnTarget": 3.64,
+    "shotsOffTarget": 4.42,
+    "blockedShots": 2.5,
+    "possession": 46.32,
+    "corners": 4.3,
+    "offsides": 1.96,
+    "fouls": 13.53,
+    "yellowCards": 2.29,
+    "redCards": 0.64,
+    "bigChances": 2.19,
+    "bigChancesMissed": 1.25,
+    "passes": 357.8,
+    "accuratePasses": 275,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.63
+  },
+  "lastDate": "2026-06-28"
+}

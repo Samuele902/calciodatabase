@@ -1,0 +1,42 @@
+{
+  "team": "Liaoning Tieren FC",
+  "teamId": 221240,
+  "league": "Chinese Super League",
+  "matches": 16,
+  "record": {
+    "w": 5,
+    "d": 2,
+    "l": 9,
+    "points": 17
+  },
+  "goals": {
+    "for": 1.31,
+    "against": 1.75,
+    "total": 3.06
+  },
+  "rates": {
+    "over25": 0.69,
+    "btts": 0.5
+  },
+  "avgStats": {
+    "xg": 1.38,
+    "shots": 11.81,
+    "shotsOnTarget": 4.06,
+    "shotsOffTarget": 5.5,
+    "blockedShots": 2.25,
+    "possession": 52.75,
+    "corners": 4.06,
+    "offsides": 2.73,
+    "fouls": 12.38,
+    "yellowCards": 2.06,
+    "redCards": 0.5,
+    "bigChances": 2.06,
+    "bigChancesMissed": 1.5,
+    "passes": 423.5,
+    "accuratePasses": 343.81,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.27
+  },
+  "lastDate": "2026-06-27"
+}

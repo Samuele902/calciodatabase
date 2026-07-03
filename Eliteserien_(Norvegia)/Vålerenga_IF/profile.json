@@ -1,0 +1,42 @@
+{
+  "team": "Vålerenga IF",
+  "teamId": 1165,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 73,
+  "record": {
+    "w": 24,
+    "d": 15,
+    "l": 34,
+    "points": 87
+  },
+  "goals": {
+    "for": 1.47,
+    "against": 1.74,
+    "total": 3.21
+  },
+  "rates": {
+    "over25": 0.56,
+    "btts": 0.63
+  },
+  "avgStats": {
+    "xg": 1.47,
+    "shots": 13.52,
+    "shotsOnTarget": 4.36,
+    "shotsOffTarget": 5.42,
+    "blockedShots": 3.74,
+    "possession": 49.16,
+    "corners": 5.68,
+    "offsides": 1.49,
+    "fouls": 10.9,
+    "yellowCards": 1.66,
+    "redCards": 0.69,
+    "bigChances": 2.07,
+    "bigChancesMissed": 1.33,
+    "passes": 436.84,
+    "accuratePasses": 352.62,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.92
+  },
+  "lastDate": "2026-05-29"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Shandong Taishan",
+  "teamId": 3371,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 52,
+    "d": 30,
+    "l": 24,
+    "points": 186
+  },
+  "goals": {
+    "for": 1.95,
+    "against": 1.29,
+    "total": 3.25
+  },
+  "rates": {
+    "over25": 0.64,
+    "btts": 0.62
+  },
+  "avgStats": {
+    "xg": 1.82,
+    "shots": 15.94,
+    "shotsOnTarget": 5.67,
+    "shotsOffTarget": 5.96,
+    "blockedShots": 4.32,
+    "possession": 52.45,
+    "corners": 5.74,
+    "offsides": 1.98,
+    "fouls": 14.89,
+    "yellowCards": 2.13,
+    "redCards": 0.56,
+    "bigChances": 2.86,
+    "bigChancesMissed": 1.84,
+    "passes": 416.59,
+    "accuratePasses": 335.08,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.57
+  },
+  "lastDate": "2026-06-27"
+}

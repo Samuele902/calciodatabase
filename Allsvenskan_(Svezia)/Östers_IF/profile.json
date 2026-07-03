@@ -1,0 +1,42 @@
+{
+  "team": "Östers IF",
+  "teamId": 1781,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 30,
+  "record": {
+    "w": 6,
+    "d": 8,
+    "l": 16,
+    "points": 26
+  },
+  "goals": {
+    "for": 0.97,
+    "against": 1.6,
+    "total": 2.57
+  },
+  "rates": {
+    "over25": 0.37,
+    "btts": 0.47
+  },
+  "avgStats": {
+    "xg": 1.12,
+    "shots": 10.03,
+    "shotsOnTarget": 3.13,
+    "shotsOffTarget": 3.77,
+    "blockedShots": 3.13,
+    "possession": 45.97,
+    "corners": 4.9,
+    "offsides": 1.45,
+    "fouls": 13.77,
+    "yellowCards": 2.48,
+    "redCards": 0.5,
+    "bigChances": 1.9,
+    "bigChancesMissed": 1.38,
+    "passes": 389.8,
+    "accuratePasses": 307.03,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.63
+  },
+  "lastDate": "2025-11-09"
+}

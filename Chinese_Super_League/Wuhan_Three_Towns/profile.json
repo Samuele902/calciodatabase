@@ -1,0 +1,42 @@
+{
+  "team": "Wuhan Three Towns",
+  "teamId": 295152,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 30,
+    "d": 30,
+    "l": 46,
+    "points": 120
+  },
+  "goals": {
+    "for": 1.3,
+    "against": 1.62,
+    "total": 2.92
+  },
+  "rates": {
+    "over25": 0.54,
+    "btts": 0.62
+  },
+  "avgStats": {
+    "xg": 1.45,
+    "shots": 13.61,
+    "shotsOnTarget": 4.71,
+    "shotsOffTarget": 5.79,
+    "blockedShots": 3.11,
+    "possession": 50.8,
+    "corners": 4.51,
+    "offsides": 1.86,
+    "fouls": 12.05,
+    "yellowCards": 2.08,
+    "redCards": 0.67,
+    "bigChances": 2.12,
+    "bigChancesMissed": 1.39,
+    "passes": 415.98,
+    "accuratePasses": 342.25,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.15
+  },
+  "lastDate": "2026-06-27"
+}

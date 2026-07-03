@@ -1,0 +1,42 @@
+{
+  "team": "Stabæk Fotball",
+  "teamId": 1162,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 30,
+  "record": {
+    "w": 7,
+    "d": 8,
+    "l": 15,
+    "points": 29
+  },
+  "goals": {
+    "for": 1,
+    "against": 1.6,
+    "total": 2.6
+  },
+  "rates": {
+    "over25": 0.53,
+    "btts": 0.47
+  },
+  "avgStats": {
+    "xg": 1.4,
+    "shots": 12.03,
+    "shotsOnTarget": 3.93,
+    "shotsOffTarget": 5,
+    "blockedShots": 3.1,
+    "possession": 47.9,
+    "corners": 4.9,
+    "offsides": 1.17,
+    "fouls": 10.2,
+    "yellowCards": 1.24,
+    "redCards": 0.63,
+    "bigChances": 1.53,
+    "bigChancesMissed": 1.26,
+    "passes": 437.37,
+    "accuratePasses": 340.87,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.63
+  },
+  "lastDate": "2023-12-03"
+}

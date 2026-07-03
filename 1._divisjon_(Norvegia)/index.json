@@ -1,0 +1,169 @@
+{
+  "league": "1. divisjon (Norvegia)",
+  "tournamentId": 1420,
+  "matches": 554,
+  "teams": [
+    {
+      "team": "Ryger Stavanger",
+      "teamId": 456526,
+      "dir": "Ryger_Stavanger",
+      "matches": 81
+    },
+    {
+      "team": "Melhus IL",
+      "teamId": 422893,
+      "dir": "Melhus_IL",
+      "matches": 79
+    },
+    {
+      "team": "Grenland Topphaandballklubb",
+      "teamId": 483323,
+      "dir": "Grenland_Topphaandballklubb",
+      "matches": 78
+    },
+    {
+      "team": "Bergsoey IL",
+      "teamId": 483322,
+      "dir": "Bergsoey_IL",
+      "matches": 78
+    },
+    {
+      "team": "Charlottenlund SK",
+      "teamId": 205214,
+      "dir": "Charlottenlund_SK",
+      "matches": 78
+    },
+    {
+      "team": "Bodø",
+      "teamId": 4036,
+      "dir": "Bodø",
+      "matches": 77
+    },
+    {
+      "team": "Viking TIF",
+      "teamId": 117708,
+      "dir": "Viking_TIF",
+      "matches": 53
+    },
+    {
+      "team": "Asane",
+      "teamId": 392112,
+      "dir": "Asane",
+      "matches": 52
+    },
+    {
+      "team": "Tiller IL",
+      "teamId": 390109,
+      "dir": "Tiller_IL",
+      "matches": 52
+    },
+    {
+      "team": "ROS",
+      "teamId": 297212,
+      "dir": "ROS",
+      "matches": 52
+    },
+    {
+      "team": "Falk Horten",
+      "teamId": 68648,
+      "dir": "Falk_Horten",
+      "matches": 52
+    },
+    {
+      "team": "Sandefjord Handball",
+      "teamId": 4028,
+      "dir": "Sandefjord_Handball",
+      "matches": 52
+    },
+    {
+      "team": "Lillestroem HK",
+      "teamId": 1103276,
+      "dir": "Lillestroem_HK",
+      "matches": 29
+    },
+    {
+      "team": "Nøtterøy",
+      "teamId": 7370,
+      "dir": "Nøtterøy",
+      "matches": 28
+    },
+    {
+      "team": "Bjoernar",
+      "teamId": 1103277,
+      "dir": "Bjoernar",
+      "matches": 26
+    },
+    {
+      "team": "HK-72 Sande",
+      "teamId": 526983,
+      "dir": "HK-72_Sande",
+      "matches": 25
+    },
+    {
+      "team": "Storhamar",
+      "teamId": 413523,
+      "dir": "Storhamar",
+      "matches": 26
+    },
+    {
+      "team": "Randesund",
+      "teamId": 413522,
+      "dir": "Randesund",
+      "matches": 26
+    },
+    {
+      "team": "Nordstrand",
+      "teamId": 340395,
+      "dir": "Nordstrand",
+      "matches": 26
+    },
+    {
+      "team": "Oslo Studentenes IK",
+      "teamId": 263961,
+      "dir": "Oslo_Studentenes_IK",
+      "matches": 26
+    },
+    {
+      "team": "Kragerø IF",
+      "teamId": 190260,
+      "dir": "Kragerø_IF",
+      "matches": 26
+    },
+    {
+      "team": "Haslum HK",
+      "teamId": 4064,
+      "dir": "Haslum_HK",
+      "matches": 26
+    },
+    {
+      "team": "Follo HK",
+      "teamId": 4039,
+      "dir": "Follo_HK",
+      "matches": 26
+    },
+    {
+      "team": "Fyllingen",
+      "teamId": 4033,
+      "dir": "Fyllingen",
+      "matches": 26
+    },
+    {
+      "team": "Varhaug IL",
+      "teamId": 1216576,
+      "dir": "Varhaug_IL",
+      "matches": 2
+    },
+    {
+      "team": "Reistad",
+      "teamId": 1216574,
+      "dir": "Reistad",
+      "matches": 2
+    },
+    {
+      "team": "Kjelsås",
+      "teamId": 341752,
+      "dir": "Kjelsås",
+      "matches": 2
+    }
+  ]
+}

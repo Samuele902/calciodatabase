@@ -2,41 +2,41 @@
   "team": "KA Akureyri",
   "teamId": 1904,
   "league": "Besta deild karla (Islanda)",
-  "matches": 66,
+  "matches": 73,
   "record": {
-    "w": 24,
-    "d": 14,
-    "l": 28,
-    "points": 86
+    "w": 28,
+    "d": 15,
+    "l": 30,
+    "points": 99
   },
   "goals": {
-    "for": 1.61,
-    "against": 1.85,
-    "total": 3.45
+    "for": 1.64,
+    "against": 1.82,
+    "total": 3.47
   },
   "rates": {
-    "over25": 0.61,
+    "over25": 0.6,
     "btts": 0.67
   },
   "avgStats": {
-    "xg": 1.64,
-    "shots": 14.85,
-    "shotsOnTarget": 5.25,
-    "shotsOffTarget": 5.93,
+    "xg": 1.63,
+    "shots": 14.76,
+    "shotsOnTarget": 5.16,
+    "shotsOffTarget": 5.92,
     "blockedShots": 3.6,
-    "possession": 48.04,
-    "corners": 6.05,
-    "offsides": 2.28,
-    "fouls": 12.16,
-    "yellowCards": 2.44,
-    "redCards": 0.05,
+    "possession": 48.32,
+    "corners": 6,
+    "offsides": 2.26,
+    "fouls": 12.21,
+    "yellowCards": 2.35,
+    "redCards": 0.04,
     "bigChances": 2,
     "bigChancesMissed": 1.24,
-    "passes": 393.2,
-    "accuratePasses": 311.24,
+    "passes": 398.68,
+    "accuratePasses": 318.34,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.38
+    "saves": 3.37
   },
   "lastDate": "2026-06-28"
 }

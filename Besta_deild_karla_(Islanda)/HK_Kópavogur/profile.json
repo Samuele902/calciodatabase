@@ -2,41 +2,41 @@
   "team": "HK Kópavogur",
   "teamId": 7121,
   "league": "Besta deild karla (Islanda)",
-  "matches": 27,
+  "matches": 33,
   "record": {
-    "w": 7,
-    "d": 4,
-    "l": 16,
-    "points": 25
+    "w": 8,
+    "d": 6,
+    "l": 19,
+    "points": 30
   },
   "goals": {
-    "for": 1.26,
-    "against": 2.63,
-    "total": 3.89
+    "for": 1.24,
+    "against": 2.39,
+    "total": 3.64
   },
   "rates": {
-    "over25": 0.7,
+    "over25": 0.67,
     "btts": 0.67
   },
   "avgStats": {
-    "xg": 1.28,
-    "shots": 11.27,
-    "shotsOnTarget": 4.4,
-    "shotsOffTarget": 4.2,
-    "blockedShots": 2.27,
-    "possession": 40.27,
-    "corners": 4.67,
-    "offsides": 2.27,
-    "fouls": 12.6,
-    "yellowCards": 2.47,
-    "redCards": 0.2,
+    "xg": 1.4,
+    "shots": 12.29,
+    "shotsOnTarget": 4.57,
+    "shotsOffTarget": 4.38,
+    "blockedShots": 3,
+    "possession": 44.95,
+    "corners": 5,
+    "offsides": 2.19,
+    "fouls": 12,
+    "yellowCards": 2.38,
+    "redCards": 0.14,
     "bigChances": null,
     "bigChancesMissed": null,
-    "passes": 296.53,
-    "accuratePasses": 219.93,
+    "passes": 347.86,
+    "accuratePasses": 270.24,
     "tackles": null,
     "interceptions": null,
-    "saves": 4.73
+    "saves": 4.24
   },
   "lastDate": "2024-10-26"
 }

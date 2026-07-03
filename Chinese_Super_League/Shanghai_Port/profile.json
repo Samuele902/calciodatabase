@@ -1,0 +1,42 @@
+{
+  "team": "Shanghai Port",
+  "teamId": 41537,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 69,
+    "d": 20,
+    "l": 17,
+    "points": 227
+  },
+  "goals": {
+    "for": 2.4,
+    "against": 1.19,
+    "total": 3.58
+  },
+  "rates": {
+    "over25": 0.7,
+    "btts": 0.69
+  },
+  "avgStats": {
+    "xg": 2.2,
+    "shots": 15.97,
+    "shotsOnTarget": 5.79,
+    "shotsOffTarget": 6.51,
+    "blockedShots": 3.67,
+    "possession": 57.75,
+    "corners": 5.86,
+    "offsides": 2.28,
+    "fouls": 12.86,
+    "yellowCards": 1.94,
+    "redCards": 0.53,
+    "bigChances": 3.84,
+    "bigChancesMissed": 2.28,
+    "passes": 476.04,
+    "accuratePasses": 400.47,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.73
+  },
+  "lastDate": "2026-06-27"
+}

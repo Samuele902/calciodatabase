@@ -1,0 +1,42 @@
+{
+  "team": "Bodø/Glimt",
+  "teamId": 656,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 101,
+  "record": {
+    "w": 69,
+    "d": 18,
+    "l": 14,
+    "points": 225
+  },
+  "goals": {
+    "for": 2.59,
+    "against": 1.07,
+    "total": 3.66
+  },
+  "rates": {
+    "over25": 0.68,
+    "btts": 0.55
+  },
+  "avgStats": {
+    "xg": 2.39,
+    "shots": 17.15,
+    "shotsOnTarget": 6.43,
+    "shotsOffTarget": 5.74,
+    "blockedShots": 4.98,
+    "possession": 62.85,
+    "corners": 6.86,
+    "offsides": 1.39,
+    "fouls": 8.36,
+    "yellowCards": 1.06,
+    "redCards": 0.33,
+    "bigChances": 3.6,
+    "bigChancesMissed": 2.14,
+    "passes": 614.08,
+    "accuratePasses": 541.44,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.49
+  },
+  "lastDate": "2026-05-29"
+}

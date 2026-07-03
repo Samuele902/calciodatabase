@@ -1,0 +1,42 @@
+{
+  "team": "Oslo Studentenes IK",
+  "teamId": 263961,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 26,
+  "record": {
+    "w": 4,
+    "d": 2,
+    "l": 20,
+    "points": 14
+  },
+  "goals": {
+    "for": 26.04,
+    "against": 30.5,
+    "total": 56.54
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 0.6,
+    "redCards": 1,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2024-04-13"
+}

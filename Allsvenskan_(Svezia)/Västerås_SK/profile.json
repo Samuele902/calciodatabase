@@ -2,41 +2,41 @@
   "team": "Västerås SK",
   "teamId": 1775,
   "league": "Allsvenskan (Svezia)",
-  "matches": 10,
+  "matches": 40,
   "record": {
-    "w": 3,
-    "d": 3,
-    "l": 4,
-    "points": 12
+    "w": 9,
+    "d": 8,
+    "l": 23,
+    "points": 35
   },
   "goals": {
-    "for": 1.7,
-    "against": 2.2,
-    "total": 3.9
+    "for": 1.07,
+    "against": 1.63,
+    "total": 2.7
   },
   "rates": {
-    "over25": 0.7,
-    "btts": 0.7
+    "over25": 0.53,
+    "btts": 0.57
   },
   "avgStats": {
-    "xg": 1.25,
-    "shots": 10.8,
-    "shotsOnTarget": 3.5,
-    "shotsOffTarget": 4.3,
-    "blockedShots": 3,
-    "possession": 48.2,
-    "corners": 4.9,
-    "offsides": 1.25,
-    "fouls": 12.7,
-    "yellowCards": 1.2,
+    "xg": 1.54,
+    "shots": 14.32,
+    "shotsOnTarget": 4.33,
+    "shotsOffTarget": 5.6,
+    "blockedShots": 4.4,
+    "possession": 51.75,
+    "corners": 5.9,
+    "offsides": 1.64,
+    "fouls": 11,
+    "yellowCards": 1.31,
     "redCards": 1,
-    "bigChances": 2.11,
-    "bigChancesMissed": 1.13,
-    "passes": 422.1,
-    "accuratePasses": 333.4,
+    "bigChances": 2.26,
+    "bigChancesMissed": 1.88,
+    "passes": 467.48,
+    "accuratePasses": 381.1,
     "tackles": null,
     "interceptions": null,
-    "saves": 2.8
+    "saves": 3.17
   },
   "lastDate": "2026-05-31"
 }

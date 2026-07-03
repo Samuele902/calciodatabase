@@ -2,41 +2,41 @@
   "team": "ÍBV Vestmannaeyjar",
   "teamId": 1895,
   "league": "Besta deild karla (Islanda)",
-  "matches": 39,
+  "matches": 45,
   "record": {
-    "w": 12,
-    "d": 9,
-    "l": 18,
-    "points": 45
+    "w": 13,
+    "d": 12,
+    "l": 20,
+    "points": 51
   },
   "goals": {
-    "for": 1.41,
-    "against": 1.62,
-    "total": 3.03
+    "for": 1.4,
+    "against": 1.6,
+    "total": 3
   },
   "rates": {
-    "over25": 0.51,
-    "btts": 0.56
+    "over25": 0.53,
+    "btts": 0.6
   },
   "avgStats": {
-    "xg": 1.38,
-    "shots": 12.59,
-    "shotsOnTarget": 4.21,
-    "shotsOffTarget": 4.64,
-    "blockedShots": 3.74,
-    "possession": 44.31,
-    "corners": 4.67,
-    "offsides": 2.05,
-    "fouls": 10.1,
-    "yellowCards": 2.61,
-    "redCards": 0.25,
+    "xg": 1.45,
+    "shots": 12.73,
+    "shotsOnTarget": 4.24,
+    "shotsOffTarget": 4.71,
+    "blockedShots": 3.73,
+    "possession": 44.87,
+    "corners": 4.78,
+    "offsides": 1.93,
+    "fouls": 10.04,
+    "yellowCards": 2.48,
+    "redCards": 0.1,
     "bigChances": 2.08,
     "bigChancesMissed": 1.22,
-    "passes": 355.1,
-    "accuratePasses": 266.28,
+    "passes": 358.2,
+    "accuratePasses": 270.22,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.21
+    "saves": 3.31
   },
   "lastDate": "2026-06-28"
 }

@@ -2,41 +2,41 @@
   "team": "Örgryte IS",
   "teamId": 1766,
   "league": "Allsvenskan (Svezia)",
-  "matches": 10,
+  "matches": 12,
   "record": {
-    "w": 1,
-    "d": 3,
+    "w": 2,
+    "d": 4,
     "l": 6,
-    "points": 6
+    "points": 10
   },
   "goals": {
-    "for": 1,
-    "against": 2.5,
-    "total": 3.5
+    "for": 1.08,
+    "against": 2.08,
+    "total": 3.17
   },
   "rates": {
     "over25": 0.5,
-    "btts": 0.6
+    "btts": 0.5
   },
   "avgStats": {
-    "xg": 1.16,
-    "shots": 10.9,
-    "shotsOnTarget": 3.8,
-    "shotsOffTarget": 3.9,
-    "blockedShots": 3.2,
-    "possession": 45.9,
-    "corners": 4.2,
-    "offsides": 1.56,
-    "fouls": 12.4,
-    "yellowCards": 1.7,
-    "redCards": null,
-    "bigChances": 1.5,
-    "bigChancesMissed": 1,
-    "passes": 412.2,
-    "accuratePasses": 326.8,
+    "xg": 1.13,
+    "shots": 10.83,
+    "shotsOnTarget": 4,
+    "shotsOffTarget": 3.92,
+    "blockedShots": 2.92,
+    "possession": 44.33,
+    "corners": 3.75,
+    "offsides": 1.36,
+    "fouls": 12.75,
+    "yellowCards": 1.67,
+    "redCards": 1,
+    "bigChances": 1.36,
+    "bigChancesMissed": 0.91,
+    "passes": 400.82,
+    "accuratePasses": 315.91,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.3
+    "saves": 3.58
   },
   "lastDate": "2026-05-29"
 }

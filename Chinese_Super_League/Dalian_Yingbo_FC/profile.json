@@ -1,0 +1,42 @@
+{
+  "team": "Dalian Yingbo FC",
+  "teamId": 474992,
+  "league": "Chinese Super League",
+  "matches": 46,
+  "record": {
+    "w": 16,
+    "d": 10,
+    "l": 20,
+    "points": 58
+  },
+  "goals": {
+    "for": 1.13,
+    "against": 1.61,
+    "total": 2.74
+  },
+  "rates": {
+    "over25": 0.43,
+    "btts": 0.46
+  },
+  "avgStats": {
+    "xg": 1.4,
+    "shots": 13.02,
+    "shotsOnTarget": 3.93,
+    "shotsOffTarget": 5.37,
+    "blockedShots": 3.72,
+    "possession": 46.72,
+    "corners": 5.89,
+    "offsides": 2.33,
+    "fouls": 13.26,
+    "yellowCards": 2.07,
+    "redCards": 0.43,
+    "bigChances": 2.11,
+    "bigChancesMissed": 1.49,
+    "passes": 360.41,
+    "accuratePasses": 273.52,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.71
+  },
+  "lastDate": "2026-06-28"
+}

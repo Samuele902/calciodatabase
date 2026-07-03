@@ -1,0 +1,42 @@
+{
+  "team": "Strømsgodset",
+  "teamId": 1163,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 90,
+  "record": {
+    "w": 29,
+    "d": 13,
+    "l": 48,
+    "points": 100
+  },
+  "goals": {
+    "for": 1.18,
+    "against": 1.63,
+    "total": 2.81
+  },
+  "rates": {
+    "over25": 0.51,
+    "btts": 0.5
+  },
+  "avgStats": {
+    "xg": 1.49,
+    "shots": 13.24,
+    "shotsOnTarget": 4.1,
+    "shotsOffTarget": 5.39,
+    "blockedShots": 3.76,
+    "possession": 44.71,
+    "corners": 5.21,
+    "offsides": 1.35,
+    "fouls": 10.09,
+    "yellowCards": 1.62,
+    "redCards": 1,
+    "bigChances": 1.98,
+    "bigChancesMissed": 1.44,
+    "passes": 401.34,
+    "accuratePasses": 317.68,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.96
+  },
+  "lastDate": "2025-11-30"
+}

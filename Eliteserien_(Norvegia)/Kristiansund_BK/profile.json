@@ -1,0 +1,42 @@
+{
+  "team": "Kristiansund BK",
+  "teamId": 957,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 75,
+  "record": {
+    "w": 23,
+    "d": 20,
+    "l": 32,
+    "points": 89
+  },
+  "goals": {
+    "for": 1.28,
+    "against": 1.77,
+    "total": 3.05
+  },
+  "rates": {
+    "over25": 0.55,
+    "btts": 0.59
+  },
+  "avgStats": {
+    "xg": 1.26,
+    "shots": 11.23,
+    "shotsOnTarget": 3.84,
+    "shotsOffTarget": 4.36,
+    "blockedShots": 3.03,
+    "possession": 42.77,
+    "corners": 4.16,
+    "offsides": 1.57,
+    "fouls": 10.91,
+    "yellowCards": 1.84,
+    "redCards": 0.22,
+    "bigChances": 1.95,
+    "bigChancesMissed": 1.43,
+    "passes": 394.52,
+    "accuratePasses": 316.33,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.37
+  },
+  "lastDate": "2026-05-29"
+}

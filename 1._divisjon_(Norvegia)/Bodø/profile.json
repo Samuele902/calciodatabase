@@ -1,0 +1,42 @@
+{
+  "team": "Bodø",
+  "teamId": 4036,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 77,
+  "record": {
+    "w": 47,
+    "d": 3,
+    "l": 27,
+    "points": 144
+  },
+  "goals": {
+    "for": 30.49,
+    "against": 27.94,
+    "total": 58.43
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": 1.5,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-12"
+}

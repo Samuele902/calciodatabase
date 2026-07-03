@@ -1,0 +1,42 @@
+{
+  "team": "IK Start",
+  "teamId": 667,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 12,
+  "record": {
+    "w": 1,
+    "d": 4,
+    "l": 7,
+    "points": 7
+  },
+  "goals": {
+    "for": 1.08,
+    "against": 2.33,
+    "total": 3.42
+  },
+  "rates": {
+    "over25": 0.5,
+    "btts": 0.75
+  },
+  "avgStats": {
+    "xg": 1.25,
+    "shots": 11.08,
+    "shotsOnTarget": 3.58,
+    "shotsOffTarget": 4.92,
+    "blockedShots": 2.58,
+    "possession": 39.92,
+    "corners": 3.25,
+    "offsides": 1.09,
+    "fouls": 12.5,
+    "yellowCards": 2.27,
+    "redCards": 1,
+    "bigChances": 2.09,
+    "bigChancesMissed": 1.5,
+    "passes": 345.42,
+    "accuratePasses": 247.25,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.75
+  },
+  "lastDate": "2026-05-29"
+}

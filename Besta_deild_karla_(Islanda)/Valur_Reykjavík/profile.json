@@ -2,41 +2,41 @@
   "team": "Valur Reykjavík",
   "teamId": 1899,
   "league": "Besta deild karla (Islanda)",
-  "matches": 67,
+  "matches": 74,
   "record": {
-    "w": 31,
-    "d": 15,
-    "l": 21,
-    "points": 108
+    "w": 35,
+    "d": 17,
+    "l": 22,
+    "points": 122
   },
   "goals": {
-    "for": 2.25,
-    "against": 1.7,
-    "total": 3.96
+    "for": 2.28,
+    "against": 1.72,
+    "total": 4
   },
   "rates": {
-    "over25": 0.75,
+    "over25": 0.74,
     "btts": 0.78
   },
   "avgStats": {
-    "xg": 1.98,
-    "shots": 15.2,
-    "shotsOnTarget": 5.76,
-    "shotsOffTarget": 5.3,
-    "blockedShots": 4.06,
-    "possession": 51.78,
-    "corners": 6.43,
-    "offsides": 2.18,
-    "fouls": 11.09,
-    "yellowCards": 2.5,
-    "redCards": 0.26,
+    "xg": 1.99,
+    "shots": 14.87,
+    "shotsOnTarget": 5.61,
+    "shotsOffTarget": 5.18,
+    "blockedShots": 3.97,
+    "possession": 51.87,
+    "corners": 6.31,
+    "offsides": 2.21,
+    "fouls": 10.9,
+    "yellowCards": 2.41,
+    "redCards": 0.19,
     "bigChances": 3.27,
     "bigChancesMissed": 1.89,
-    "passes": 448.39,
-    "accuratePasses": 364.31,
+    "passes": 450.44,
+    "accuratePasses": 367.39,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.39
+    "saves": 3.54
   },
   "lastDate": "2026-06-28"
 }

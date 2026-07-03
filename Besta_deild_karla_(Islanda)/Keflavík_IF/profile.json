@@ -2,41 +2,41 @@
   "team": "Keflavík IF",
   "teamId": 1900,
   "league": "Besta deild karla (Islanda)",
-  "matches": 12,
+  "matches": 19,
   "record": {
-    "w": 4,
-    "d": 3,
-    "l": 5,
-    "points": 15
+    "w": 5,
+    "d": 5,
+    "l": 9,
+    "points": 20
   },
   "goals": {
-    "for": 1.42,
-    "against": 1.92,
-    "total": 3.33
+    "for": 1.37,
+    "against": 2.05,
+    "total": 3.42
   },
   "rates": {
-    "over25": 0.67,
-    "btts": 0.83
+    "over25": 0.68,
+    "btts": 0.89
   },
   "avgStats": {
-    "xg": null,
-    "shots": 16.33,
-    "shotsOnTarget": 4.67,
-    "shotsOffTarget": 7,
-    "blockedShots": 4.67,
-    "possession": 44.83,
-    "corners": 5.75,
-    "offsides": 2.08,
-    "fouls": 10.58,
-    "yellowCards": 2,
-    "redCards": null,
+    "xg": 1.28,
+    "shots": 13.89,
+    "shotsOnTarget": 4.42,
+    "shotsOffTarget": 5.74,
+    "blockedShots": 3.63,
+    "possession": 45.68,
+    "corners": 4.95,
+    "offsides": 2.37,
+    "fouls": 11.37,
+    "yellowCards": 2.58,
+    "redCards": 0.14,
     "bigChances": 2.75,
     "bigChancesMissed": 1.73,
-    "passes": 371.08,
-    "accuratePasses": 279.5,
+    "passes": 376.05,
+    "accuratePasses": 286.89,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.42
+    "saves": 3.53
   },
   "lastDate": "2026-06-28"
 }

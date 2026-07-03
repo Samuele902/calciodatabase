@@ -2,41 +2,41 @@
   "team": "BK Häcken",
   "teamId": 1760,
   "league": "Allsvenskan (Svezia)",
-  "matches": 10,
+  "matches": 100,
   "record": {
-    "w": 5,
-    "d": 5,
-    "l": 0,
-    "points": 20
+    "w": 44,
+    "d": 22,
+    "l": 34,
+    "points": 154
   },
   "goals": {
-    "for": 2,
-    "against": 1.4,
-    "total": 3.4
+    "for": 1.85,
+    "against": 1.54,
+    "total": 3.39
   },
   "rates": {
-    "over25": 0.6,
-    "btts": 0.8
+    "over25": 0.64,
+    "btts": 0.62
   },
   "avgStats": {
-    "xg": 1.87,
-    "shots": 15.2,
-    "shotsOnTarget": 4.8,
-    "shotsOffTarget": 5.2,
-    "blockedShots": 5.2,
-    "possession": 50.6,
-    "corners": 5.5,
-    "offsides": 1.78,
-    "fouls": 11.9,
-    "yellowCards": 2.8,
-    "redCards": 0,
-    "bigChances": 2.9,
-    "bigChancesMissed": 2,
-    "passes": 448.7,
-    "accuratePasses": 373,
+    "xg": 1.79,
+    "shots": 15.45,
+    "shotsOnTarget": 5.36,
+    "shotsOffTarget": 5.48,
+    "blockedShots": 4.61,
+    "possession": 56.41,
+    "corners": 6.14,
+    "offsides": 1.63,
+    "fouls": 10.73,
+    "yellowCards": 1.86,
+    "redCards": 0.86,
+    "bigChances": 2.55,
+    "bigChancesMissed": 1.53,
+    "passes": 533.44,
+    "accuratePasses": 460.95,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.6
+    "saves": 3.26
   },
   "lastDate": "2026-05-31"
 }

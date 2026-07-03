@@ -1,0 +1,42 @@
+{
+  "team": "Aalesunds FK",
+  "teamId": 677,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 45,
+  "record": {
+    "w": 10,
+    "d": 8,
+    "l": 27,
+    "points": 38
+  },
+  "goals": {
+    "for": 1.11,
+    "against": 2.2,
+    "total": 3.31
+  },
+  "rates": {
+    "over25": 0.67,
+    "btts": 0.58
+  },
+  "avgStats": {
+    "xg": 1.53,
+    "shots": 13.44,
+    "shotsOnTarget": 4.18,
+    "shotsOffTarget": 4.4,
+    "blockedShots": 4.87,
+    "possession": 42.98,
+    "corners": 5.29,
+    "offsides": 1.55,
+    "fouls": 11.8,
+    "yellowCards": 2.07,
+    "redCards": 0.5,
+    "bigChances": 1.44,
+    "bigChancesMissed": 0.92,
+    "passes": 378.4,
+    "accuratePasses": 285.89,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.53
+  },
+  "lastDate": "2026-05-29"
+}

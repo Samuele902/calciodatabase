@@ -1,0 +1,42 @@
+{
+  "team": "Haugesund",
+  "teamId": 673,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 92,
+  "record": {
+    "w": 21,
+    "d": 16,
+    "l": 55,
+    "points": 79
+  },
+  "goals": {
+    "for": 0.95,
+    "against": 1.8,
+    "total": 2.75
+  },
+  "rates": {
+    "over25": 0.54,
+    "btts": 0.45
+  },
+  "avgStats": {
+    "xg": 1.08,
+    "shots": 10.77,
+    "shotsOnTarget": 3.77,
+    "shotsOffTarget": 4.03,
+    "blockedShots": 2.97,
+    "possession": 47.1,
+    "corners": 4.15,
+    "offsides": 1.49,
+    "fouls": 10.65,
+    "yellowCards": 1.96,
+    "redCards": 0.81,
+    "bigChances": 1.51,
+    "bigChancesMissed": 0.99,
+    "passes": 426.71,
+    "accuratePasses": 341.37,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.96
+  },
+  "lastDate": "2025-11-30"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Bryne FK",
+  "teamId": 663,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 33,
+  "record": {
+    "w": 9,
+    "d": 7,
+    "l": 17,
+    "points": 34
+  },
+  "goals": {
+    "for": 1.24,
+    "against": 1.97,
+    "total": 3.21
+  },
+  "rates": {
+    "over25": 0.58,
+    "btts": 0.55
+  },
+  "avgStats": {
+    "xg": 1.28,
+    "shots": 11.06,
+    "shotsOnTarget": 3.97,
+    "shotsOffTarget": 4.09,
+    "blockedShots": 3,
+    "possession": 46.09,
+    "corners": 4.15,
+    "offsides": 1.47,
+    "fouls": 12.55,
+    "yellowCards": 1.84,
+    "redCards": 0.33,
+    "bigChances": 1.84,
+    "bigChancesMissed": 1.03,
+    "passes": 407,
+    "accuratePasses": 310.48,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.82
+  },
+  "lastDate": "2025-12-11"
+}

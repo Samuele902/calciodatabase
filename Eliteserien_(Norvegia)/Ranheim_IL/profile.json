@@ -1,0 +1,42 @@
+{
+  "team": "Ranheim IL",
+  "teamId": 708,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 1,
+  "record": {
+    "w": 0,
+    "d": 0,
+    "l": 1,
+    "points": 0
+  },
+  "goals": {
+    "for": 2,
+    "against": 3,
+    "total": 5
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": 2.31,
+    "shots": 19,
+    "shotsOnTarget": 8,
+    "shotsOffTarget": 4,
+    "blockedShots": 7,
+    "possession": 63,
+    "corners": 9,
+    "offsides": 2,
+    "fouls": 11,
+    "yellowCards": 2,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 630,
+    "accuratePasses": 536,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 4
+  },
+  "lastDate": "2025-11-22"
+}

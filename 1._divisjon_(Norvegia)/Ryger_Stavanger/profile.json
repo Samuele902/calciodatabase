@@ -1,0 +1,42 @@
+{
+  "team": "Ryger Stavanger",
+  "teamId": 456526,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 81,
+  "record": {
+    "w": 28,
+    "d": 12,
+    "l": 41,
+    "points": 96
+  },
+  "goals": {
+    "for": 26.51,
+    "against": 27.51,
+    "total": 54.01
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1.13,
+    "redCards": 1,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-05-03"
+}

@@ -1,0 +1,1410 @@
+[
+  {
+    "matchId": 16023243,
+    "date": "2026-05-01",
+    "season": "1. Division 25/26",
+    "round": 1,
+    "venue": "home",
+    "opponent": "Varhaug IL",
+    "opponentId": 1216576,
+    "score": "32-42",
+    "htScore": "14-19",
+    "result": "L",
+    "goalsFor": 32,
+    "goalsAgainst": 42,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": [
+      {
+        "minute": 60,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 59,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 59,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 59,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 58,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 57,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 56,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 54,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 54,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 54,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 54,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 53,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 52,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 51,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 50,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 50,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 49,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 48,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 47,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 47,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 46,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 46,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 46,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 44,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 43,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 43,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 41,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 41,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 40,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 40,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 39,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 37,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 36,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 36,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 35,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 35,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 35,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 35,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 34,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 34,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 31,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 30,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 30,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 30,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 28,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 27,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 25,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 25,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 24,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 23,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 23,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 22,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 19,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 18,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 17,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 16,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 15,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 15,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 14,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 14,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 13,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 12,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 11,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 11,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 11,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 10,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 10,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 9,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 8,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 7,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 6,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": false
+      },
+      {
+        "minute": 6,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 4,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      },
+      {
+        "minute": 2,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": true
+      }
+    ]
+  },
+  {
+    "matchId": 16023244,
+    "date": "2026-04-28",
+    "season": "1. Division 25/26",
+    "round": 1,
+    "venue": "away",
+    "opponent": "Lillestroem HK",
+    "opponentId": 1103276,
+    "score": "33-28",
+    "htScore": "19-13",
+    "result": "L",
+    "goalsFor": 28,
+    "goalsAgainst": 33,
+    "formation": null,
+    "opponentFormation": null,
+    "stats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "opponentStats": {
+      "ALL": {},
+      "1ST": {},
+      "2ND": {}
+    },
+    "players": [],
+    "incidents": [
+      {
+        "minute": 60,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 59,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 58,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 58,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 56,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 55,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 54,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 54,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 52,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 51,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 51,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 47,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 46,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 46,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 45,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 44,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 42,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 42,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 41,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 40,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 39,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 39,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 38,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 37,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 36,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 35,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 34,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 32,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 31,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 30,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 30,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 28,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 27,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 26,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 26,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 24,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 24,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 23,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 23,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 22,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 22,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 19,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 18,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 17,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 16,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 16,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 14,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 13,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 13,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 12,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 11,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 10,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 9,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 8,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 7,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 6,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 6,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 5,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      },
+      {
+        "minute": 4,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 2,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "away",
+        "isThisTeam": true
+      },
+      {
+        "minute": 1,
+        "addedTime": null,
+        "type": "goal",
+        "klass": "regular",
+        "player": null,
+        "assist": null,
+        "team": "home",
+        "isThisTeam": false
+      }
+    ]
+  }
+]

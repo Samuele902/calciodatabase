@@ -1,0 +1,42 @@
+{
+  "team": "Falk Horten",
+  "teamId": 68648,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 52,
+  "record": {
+    "w": 19,
+    "d": 6,
+    "l": 27,
+    "points": 63
+  },
+  "goals": {
+    "for": 29.08,
+    "against": 29.08,
+    "total": 58.15
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 0.83,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2025-04-05"
+}

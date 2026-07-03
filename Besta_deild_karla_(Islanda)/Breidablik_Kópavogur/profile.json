@@ -2,41 +2,41 @@
   "team": "Breidablik Kópavogur",
   "teamId": 1901,
   "league": "Besta deild karla (Islanda)",
-  "matches": 65,
+  "matches": 72,
   "record": {
-    "w": 35,
-    "d": 18,
-    "l": 12,
-    "points": 123
+    "w": 36,
+    "d": 19,
+    "l": 17,
+    "points": 127
   },
   "goals": {
-    "for": 2.12,
-    "against": 1.43,
-    "total": 3.55
+    "for": 2.08,
+    "against": 1.54,
+    "total": 3.63
   },
   "rates": {
-    "over25": 0.65,
+    "over25": 0.64,
     "btts": 0.69
   },
   "avgStats": {
-    "xg": 1.79,
-    "shots": 15.85,
-    "shotsOnTarget": 5.54,
-    "shotsOffTarget": 5.15,
-    "blockedShots": 5.06,
-    "possession": 54.81,
-    "corners": 7.31,
-    "offsides": 1.92,
-    "fouls": 11.75,
-    "yellowCards": 2.12,
-    "redCards": 0.17,
+    "xg": 1.8,
+    "shots": 15.63,
+    "shotsOnTarget": 5.49,
+    "shotsOffTarget": 5.05,
+    "blockedShots": 4.92,
+    "possession": 55.03,
+    "corners": 7.37,
+    "offsides": 1.86,
+    "fouls": 11.78,
+    "yellowCards": 2.22,
+    "redCards": 0.16,
     "bigChances": 2.16,
     "bigChancesMissed": 1.2,
-    "passes": 449.69,
-    "accuratePasses": 364.52,
+    "passes": 452.66,
+    "accuratePasses": 367.69,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.48
+    "saves": 3.47
   },
   "lastDate": "2026-06-21"
 }

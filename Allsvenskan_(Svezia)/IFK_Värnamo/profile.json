@@ -1,0 +1,42 @@
+{
+  "team": "IFK Värnamo",
+  "teamId": 1842,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 92,
+  "record": {
+    "w": 25,
+    "d": 21,
+    "l": 46,
+    "points": 96
+  },
+  "goals": {
+    "for": 1.15,
+    "against": 1.58,
+    "total": 2.73
+  },
+  "rates": {
+    "over25": 0.5,
+    "btts": 0.53
+  },
+  "avgStats": {
+    "xg": 1.21,
+    "shots": 12.73,
+    "shotsOnTarget": 4.05,
+    "shotsOffTarget": 4.8,
+    "blockedShots": 3.87,
+    "possession": 49.61,
+    "corners": 5.35,
+    "offsides": 1.55,
+    "fouls": 11.12,
+    "yellowCards": 1.58,
+    "redCards": 0.75,
+    "bigChances": 1.57,
+    "bigChancesMissed": 1.01,
+    "passes": 463.85,
+    "accuratePasses": 380.29,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.58
+  },
+  "lastDate": "2025-11-09"
+}

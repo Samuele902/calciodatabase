@@ -1,0 +1,42 @@
+{
+  "team": "Shenzhen Peng City",
+  "teamId": 281331,
+  "league": "Chinese Super League",
+  "matches": 76,
+  "record": {
+    "w": 20,
+    "d": 13,
+    "l": 43,
+    "points": 73
+  },
+  "goals": {
+    "for": 1.13,
+    "against": 1.87,
+    "total": 3
+  },
+  "rates": {
+    "over25": 0.61,
+    "btts": 0.58
+  },
+  "avgStats": {
+    "xg": 1.15,
+    "shots": 11.36,
+    "shotsOnTarget": 3.71,
+    "shotsOffTarget": 4.96,
+    "blockedShots": 2.68,
+    "possession": 46.21,
+    "corners": 4.42,
+    "offsides": 1.51,
+    "fouls": 13.39,
+    "yellowCards": 2.18,
+    "redCards": 0.65,
+    "bigChances": 1.86,
+    "bigChancesMissed": 1.09,
+    "passes": 359.76,
+    "accuratePasses": 282.38,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.79
+  },
+  "lastDate": "2026-06-27"
+}

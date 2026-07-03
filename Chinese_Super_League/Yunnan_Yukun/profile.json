@@ -1,0 +1,42 @@
+{
+  "team": "Yunnan Yukun",
+  "teamId": 474991,
+  "league": "Chinese Super League",
+  "matches": 46,
+  "record": {
+    "w": 17,
+    "d": 12,
+    "l": 17,
+    "points": 63
+  },
+  "goals": {
+    "for": 1.65,
+    "against": 1.74,
+    "total": 3.39
+  },
+  "rates": {
+    "over25": 0.63,
+    "btts": 0.74
+  },
+  "avgStats": {
+    "xg": 1.42,
+    "shots": 13.52,
+    "shotsOnTarget": 4.59,
+    "shotsOffTarget": 6.04,
+    "blockedShots": 2.89,
+    "possession": 45.87,
+    "corners": 4.43,
+    "offsides": 1.77,
+    "fouls": 12.2,
+    "yellowCards": 1.84,
+    "redCards": 0.44,
+    "bigChances": 3,
+    "bigChancesMissed": 1.89,
+    "passes": 331.67,
+    "accuratePasses": 252.28,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.58
+  },
+  "lastDate": "2026-06-26"
+}

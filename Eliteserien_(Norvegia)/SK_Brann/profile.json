@@ -1,0 +1,42 @@
+{
+  "team": "SK Brann",
+  "teamId": 1159,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 102,
+  "record": {
+    "w": 57,
+    "d": 18,
+    "l": 27,
+    "points": 189
+  },
+  "goals": {
+    "for": 1.85,
+    "against": 1.31,
+    "total": 3.17
+  },
+  "rates": {
+    "over25": 0.68,
+    "btts": 0.63
+  },
+  "avgStats": {
+    "xg": 1.93,
+    "shots": 15.01,
+    "shotsOnTarget": 5.17,
+    "shotsOffTarget": 5.24,
+    "blockedShots": 4.61,
+    "possession": 61.86,
+    "corners": 6.87,
+    "offsides": 2.23,
+    "fouls": 11.59,
+    "yellowCards": 1.52,
+    "redCards": 0.35,
+    "bigChances": 2.75,
+    "bigChancesMissed": 1.66,
+    "passes": 545.41,
+    "accuratePasses": 449.75,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.54
+  },
+  "lastDate": "2026-05-29"
+}

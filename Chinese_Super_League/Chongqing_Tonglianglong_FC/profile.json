@@ -1,0 +1,42 @@
+{
+  "team": "Chongqing Tonglianglong FC",
+  "teamId": 474989,
+  "league": "Chinese Super League",
+  "matches": 16,
+  "record": {
+    "w": 7,
+    "d": 6,
+    "l": 3,
+    "points": 27
+  },
+  "goals": {
+    "for": 1.25,
+    "against": 1,
+    "total": 2.25
+  },
+  "rates": {
+    "over25": 0.38,
+    "btts": 0.5
+  },
+  "avgStats": {
+    "xg": 0.83,
+    "shots": 8.13,
+    "shotsOnTarget": 3.31,
+    "shotsOffTarget": 2.88,
+    "blockedShots": 1.94,
+    "possession": 48.44,
+    "corners": 4,
+    "offsides": 1.44,
+    "fouls": 13,
+    "yellowCards": 1.8,
+    "redCards": 0.2,
+    "bigChances": 1.93,
+    "bigChancesMissed": 1.18,
+    "passes": 427.5,
+    "accuratePasses": 353.88,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.06
+  },
+  "lastDate": "2026-06-27"
+}

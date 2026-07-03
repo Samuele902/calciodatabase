@@ -1,0 +1,42 @@
+{
+  "team": "Bjoernar",
+  "teamId": 1103277,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 26,
+  "record": {
+    "w": 5,
+    "d": 2,
+    "l": 19,
+    "points": 17
+  },
+  "goals": {
+    "for": 28.81,
+    "against": 33.38,
+    "total": 62.19
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 0,
+    "redCards": null,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-12"
+}

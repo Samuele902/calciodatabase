@@ -1,0 +1,42 @@
+{
+  "team": "Zhejiang",
+  "teamId": 34697,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 43,
+    "d": 28,
+    "l": 35,
+    "points": 157
+  },
+  "goals": {
+    "for": 1.82,
+    "against": 1.61,
+    "total": 3.43
+  },
+  "rates": {
+    "over25": 0.73,
+    "btts": 0.63
+  },
+  "avgStats": {
+    "xg": 1.75,
+    "shots": 15,
+    "shotsOnTarget": 5.46,
+    "shotsOffTarget": 5.82,
+    "blockedShots": 3.72,
+    "possession": 55.14,
+    "corners": 5.21,
+    "offsides": 1.64,
+    "fouls": 13.68,
+    "yellowCards": 2.12,
+    "redCards": 0.72,
+    "bigChances": 2.65,
+    "bigChancesMissed": 1.55,
+    "passes": 447.32,
+    "accuratePasses": 373.67,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.31
+  },
+  "lastDate": "2026-06-28"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "Meizhou Hakka",
+  "teamId": 215186,
+  "league": "Chinese Super League",
+  "matches": 90,
+  "record": {
+    "w": 20,
+    "d": 22,
+    "l": 48,
+    "points": 82
+  },
+  "goals": {
+    "for": 1.19,
+    "against": 2,
+    "total": 3.19
+  },
+  "rates": {
+    "over25": 0.66,
+    "btts": 0.64
+  },
+  "avgStats": {
+    "xg": 1.27,
+    "shots": 11.44,
+    "shotsOnTarget": 3.82,
+    "shotsOffTarget": 4.89,
+    "blockedShots": 2.73,
+    "possession": 46.07,
+    "corners": 5.2,
+    "offsides": 1.9,
+    "fouls": 13.63,
+    "yellowCards": 2.16,
+    "redCards": 0.7,
+    "bigChances": 1.97,
+    "bigChancesMissed": 1.36,
+    "passes": 354.29,
+    "accuratePasses": 269.57,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.64
+  },
+  "lastDate": "2025-11-22"
+}

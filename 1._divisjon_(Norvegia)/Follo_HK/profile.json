@@ -1,0 +1,42 @@
+{
+  "team": "Follo HK",
+  "teamId": 4039,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 26,
+  "record": {
+    "w": 24,
+    "d": 2,
+    "l": 0,
+    "points": 74
+  },
+  "goals": {
+    "for": 31.27,
+    "against": 23.65,
+    "total": 54.92
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": 1,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2024-04-13"
+}

@@ -2,41 +2,41 @@
   "team": "FH Hafnarfjörður",
   "teamId": 1894,
   "league": "Besta deild karla (Islanda)",
-  "matches": 66,
+  "matches": 73,
   "record": {
-    "w": 18,
+    "w": 21,
     "d": 20,
-    "l": 28,
-    "points": 74
+    "l": 32,
+    "points": 83
   },
   "goals": {
-    "for": 1.64,
-    "against": 1.89,
+    "for": 1.63,
+    "against": 1.9,
     "total": 3.53
   },
   "rates": {
-    "over25": 0.64,
-    "btts": 0.68
+    "over25": 0.66,
+    "btts": 0.7
   },
   "avgStats": {
-    "xg": 1.78,
-    "shots": 14.22,
-    "shotsOnTarget": 4.98,
-    "shotsOffTarget": 5.06,
-    "blockedShots": 4.02,
-    "possession": 45.44,
-    "corners": 6.54,
-    "offsides": 1.37,
-    "fouls": 12.04,
-    "yellowCards": 2.54,
-    "redCards": 0.29,
+    "xg": 1.74,
+    "shots": 13.82,
+    "shotsOnTarget": 4.85,
+    "shotsOffTarget": 4.95,
+    "blockedShots": 3.84,
+    "possession": 45.33,
+    "corners": 6.23,
+    "offsides": 1.42,
+    "fouls": 12.07,
+    "yellowCards": 2.42,
+    "redCards": 0.25,
     "bigChances": 2.61,
     "bigChancesMissed": 1.55,
-    "passes": 342.78,
-    "accuratePasses": 257.09,
+    "passes": 346,
+    "accuratePasses": 260.98,
     "tackles": null,
     "interceptions": null,
-    "saves": 2.81
+    "saves": 2.75
   },
   "lastDate": "2026-06-28"
 }

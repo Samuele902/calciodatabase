@@ -1,0 +1,42 @@
+{
+  "team": "Lillestrøm SK",
+  "teamId": 664,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 71,
+  "record": {
+    "w": 26,
+    "d": 8,
+    "l": 37,
+    "points": 86
+  },
+  "goals": {
+    "for": 1.39,
+    "against": 1.73,
+    "total": 3.13
+  },
+  "rates": {
+    "over25": 0.63,
+    "btts": 0.54
+  },
+  "avgStats": {
+    "xg": 1.72,
+    "shots": 12.79,
+    "shotsOnTarget": 4.01,
+    "shotsOffTarget": 5.11,
+    "blockedShots": 3.66,
+    "possession": 53.24,
+    "corners": 5.73,
+    "offsides": 1.58,
+    "fouls": 9.69,
+    "yellowCards": 1.78,
+    "redCards": 0.6,
+    "bigChances": 2.14,
+    "bigChancesMissed": 1.5,
+    "passes": 477.32,
+    "accuratePasses": 390.37,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.03
+  },
+  "lastDate": "2026-05-25"
+}

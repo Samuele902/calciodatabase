@@ -1,0 +1,42 @@
+{
+  "team": "Changchun Yatai",
+  "teamId": 34694,
+  "league": "Chinese Super League",
+  "matches": 90,
+  "record": {
+    "w": 22,
+    "d": 24,
+    "l": 44,
+    "points": 90
+  },
+  "goals": {
+    "for": 1.29,
+    "against": 1.76,
+    "total": 3.04
+  },
+  "rates": {
+    "over25": 0.57,
+    "btts": 0.58
+  },
+  "avgStats": {
+    "xg": 1.18,
+    "shots": 10.71,
+    "shotsOnTarget": 3.69,
+    "shotsOffTarget": 4.26,
+    "blockedShots": 2.77,
+    "possession": 47.71,
+    "corners": 3.8,
+    "offsides": 2.31,
+    "fouls": 14.13,
+    "yellowCards": 1.9,
+    "redCards": 0.58,
+    "bigChances": 1.74,
+    "bigChancesMissed": 1.07,
+    "passes": 377.62,
+    "accuratePasses": 290.54,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.45
+  },
+  "lastDate": "2025-11-22"
+}

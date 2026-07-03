@@ -1,0 +1,42 @@
+{
+  "team": "HK-72 Sande",
+  "teamId": 526983,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 25,
+  "record": {
+    "w": 5,
+    "d": 1,
+    "l": 19,
+    "points": 16
+  },
+  "goals": {
+    "for": 28.68,
+    "against": 36.32,
+    "total": 65
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": null,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2025-04-05"
+}

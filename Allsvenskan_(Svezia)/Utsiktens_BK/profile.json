@@ -1,0 +1,42 @@
+{
+  "team": "Utsiktens BK",
+  "teamId": 7536,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 2,
+  "record": {
+    "w": 0,
+    "d": 1,
+    "l": 1,
+    "points": 1
+  },
+  "goals": {
+    "for": 0,
+    "against": 3.5,
+    "total": 3.5
+  },
+  "rates": {
+    "over25": 0.5,
+    "btts": 0
+  },
+  "avgStats": {
+    "xg": 0.69,
+    "shots": 12.5,
+    "shotsOnTarget": 3,
+    "shotsOffTarget": 6,
+    "blockedShots": 3.5,
+    "possession": 46,
+    "corners": 4.5,
+    "offsides": 4.5,
+    "fouls": 15.5,
+    "yellowCards": 2.5,
+    "redCards": null,
+    "bigChances": 0.5,
+    "bigChancesMissed": 0.5,
+    "passes": 424,
+    "accuratePasses": 352.5,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.5
+  },
+  "lastDate": "2023-11-27"
+}

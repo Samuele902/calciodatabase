@@ -1,0 +1,42 @@
+{
+  "team": "Tiller IL",
+  "teamId": 390109,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 52,
+  "record": {
+    "w": 22,
+    "d": 3,
+    "l": 27,
+    "points": 69
+  },
+  "goals": {
+    "for": 28.15,
+    "against": 29.56,
+    "total": 57.71
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": 1,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-12"
+}

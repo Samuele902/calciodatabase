@@ -1,0 +1,42 @@
+{
+  "team": "Tianjin Jinmen Tiger",
+  "teamId": 3367,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 38,
+    "d": 35,
+    "l": 33,
+    "points": 149
+  },
+  "goals": {
+    "for": 1.35,
+    "against": 1.31,
+    "total": 2.66
+  },
+  "rates": {
+    "over25": 0.51,
+    "btts": 0.59
+  },
+  "avgStats": {
+    "xg": 1.33,
+    "shots": 11.6,
+    "shotsOnTarget": 4,
+    "shotsOffTarget": 4.8,
+    "blockedShots": 2.81,
+    "possession": 49.03,
+    "corners": 4.57,
+    "offsides": 1.55,
+    "fouls": 12.58,
+    "yellowCards": 1.85,
+    "redCards": 0.35,
+    "bigChances": 1.99,
+    "bigChancesMissed": 1.15,
+    "passes": 387.66,
+    "accuratePasses": 307.09,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.25
+  },
+  "lastDate": "2026-06-27"
+}

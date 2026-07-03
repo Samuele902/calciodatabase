@@ -2,41 +2,41 @@
   "team": "Mjällby AIF",
   "teamId": 1783,
   "league": "Allsvenskan (Svezia)",
-  "matches": 10,
+  "matches": 100,
   "record": {
-    "w": 4,
-    "d": 3,
-    "l": 3,
-    "points": 15
+    "w": 53,
+    "d": 22,
+    "l": 25,
+    "points": 181
   },
   "goals": {
-    "for": 1.4,
-    "against": 1.1,
-    "total": 2.5
+    "for": 1.47,
+    "against": 0.98,
+    "total": 2.45
   },
   "rates": {
-    "over25": 0.4,
-    "btts": 0.4
+    "over25": 0.46,
+    "btts": 0.5
   },
   "avgStats": {
-    "xg": 1.24,
-    "shots": 12.3,
-    "shotsOnTarget": 5.2,
-    "shotsOffTarget": 4,
-    "blockedShots": 3.1,
-    "possession": 53.7,
-    "corners": 4.8,
-    "offsides": 1.56,
-    "fouls": 12.2,
-    "yellowCards": 1.9,
-    "redCards": 1,
-    "bigChances": 1.9,
-    "bigChancesMissed": 1,
-    "passes": 495.8,
-    "accuratePasses": 408.1,
+    "xg": 1.43,
+    "shots": 13.01,
+    "shotsOnTarget": 4.5,
+    "shotsOffTarget": 4.92,
+    "blockedShots": 3.59,
+    "possession": 50.25,
+    "corners": 5.18,
+    "offsides": 1.34,
+    "fouls": 12.99,
+    "yellowCards": 1.69,
+    "redCards": 0.22,
+    "bigChances": 2.13,
+    "bigChancesMissed": 1.28,
+    "passes": 453.57,
+    "accuratePasses": 366.28,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.7
+    "saves": 2.83
   },
   "lastDate": "2026-05-25"
 }

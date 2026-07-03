@@ -1,103 +1,139 @@
 {
   "league": "Allsvenskan (Svezia)",
   "tournamentId": 40,
-  "matches": 81,
+  "matches": 807,
   "teams": [
     {
-      "team": "GAIS",
-      "teamId": 1786,
-      "dir": "GAIS",
-      "matches": 11
+      "team": "IF Brommapojkarna",
+      "teamId": 1787,
+      "dir": "IF_Brommapojkarna",
+      "matches": 102
     },
     {
       "team": "IF Elfsborg",
       "teamId": 1762,
       "dir": "IF_Elfsborg",
-      "matches": 11
+      "matches": 101
     },
     {
       "team": "Hammarby IF",
       "teamId": 1758,
       "dir": "Hammarby_IF",
-      "matches": 11
+      "matches": 101
     },
     {
       "team": "Malmö FF",
       "teamId": 1892,
       "dir": "Malmö_FF",
-      "matches": 10
-    },
-    {
-      "team": "Kalmar FF",
-      "teamId": 1891,
-      "dir": "Kalmar_FF",
-      "matches": 10
-    },
-    {
-      "team": "Degerfors IF",
-      "teamId": 1807,
-      "dir": "Degerfors_IF",
-      "matches": 10
+      "matches": 100
     },
     {
       "team": "IK Sirius",
       "teamId": 1793,
       "dir": "IK_Sirius",
-      "matches": 10
-    },
-    {
-      "team": "IF Brommapojkarna",
-      "teamId": 1787,
-      "dir": "IF_Brommapojkarna",
-      "matches": 10
+      "matches": 100
     },
     {
       "team": "Mjällby AIF",
       "teamId": 1783,
       "dir": "Mjällby_AIF",
-      "matches": 10
-    },
-    {
-      "team": "Västerås SK",
-      "teamId": 1775,
-      "dir": "Västerås_SK",
-      "matches": 10
+      "matches": 100
     },
     {
       "team": "Halmstads BK",
       "teamId": 1767,
       "dir": "Halmstads_BK",
-      "matches": 10
-    },
-    {
-      "team": "Örgryte IS",
-      "teamId": 1766,
-      "dir": "Örgryte_IS",
-      "matches": 10
+      "matches": 100
     },
     {
       "team": "AIK",
       "teamId": 1764,
       "dir": "AIK",
-      "matches": 10
+      "matches": 100
     },
     {
       "team": "IFK Göteborg",
       "teamId": 1761,
       "dir": "IFK_Göteborg",
-      "matches": 10
+      "matches": 100
     },
     {
       "team": "BK Häcken",
       "teamId": 1760,
       "dir": "BK_Häcken",
-      "matches": 10
+      "matches": 100
     },
     {
       "team": "Djurgårdens IF",
       "teamId": 1759,
       "dir": "Djurgårdens_IF",
-      "matches": 9
+      "matches": 99
+    },
+    {
+      "team": "IFK Värnamo",
+      "teamId": 1842,
+      "dir": "IFK_Värnamo",
+      "matches": 92
+    },
+    {
+      "team": "IFK Norrköping",
+      "teamId": 1769,
+      "dir": "IFK_Norrköping",
+      "matches": 92
+    },
+    {
+      "team": "GAIS",
+      "teamId": 1786,
+      "dir": "GAIS",
+      "matches": 71
+    },
+    {
+      "team": "Kalmar FF",
+      "teamId": 1891,
+      "dir": "Kalmar_FF",
+      "matches": 70
+    },
+    {
+      "team": "Degerfors IF",
+      "teamId": 1807,
+      "dir": "Degerfors_IF",
+      "matches": 70
+    },
+    {
+      "team": "Västerås SK",
+      "teamId": 1775,
+      "dir": "Västerås_SK",
+      "matches": 40
+    },
+    {
+      "team": "Varbergs BoIS",
+      "teamId": 7101,
+      "dir": "Varbergs_BoIS",
+      "matches": 30
+    },
+    {
+      "team": "Östers IF",
+      "teamId": 1781,
+      "dir": "Östers_IF",
+      "matches": 30
+    },
+    {
+      "team": "Örgryte IS",
+      "teamId": 1766,
+      "dir": "Örgryte_IS",
+      "matches": 12
+    },
+    {
+      "team": "Utsiktens BK",
+      "teamId": 7536,
+      "dir": "Utsiktens_BK",
+      "matches": 2
+    },
+    {
+      "team": "Landskrona BoIS",
+      "teamId": 1772,
+      "dir": "Landskrona_BoIS",
+      "matches": 2
     }
   ]
 }

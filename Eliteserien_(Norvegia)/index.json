@@ -1,0 +1,163 @@
+{
+  "league": "Eliteserien (Norvegia)",
+  "tournamentId": 20,
+  "matches": 823,
+  "teams": [
+    {
+      "team": "Tromsø IL",
+      "teamId": 660,
+      "dir": "Tromsø_IL",
+      "matches": 103
+    },
+    {
+      "team": "SK Brann",
+      "teamId": 1159,
+      "dir": "SK_Brann",
+      "matches": 102
+    },
+    {
+      "team": "Rosenborg BK",
+      "teamId": 1161,
+      "dir": "Rosenborg_BK",
+      "matches": 101
+    },
+    {
+      "team": "Sarpsborg 08",
+      "teamId": 822,
+      "dir": "Sarpsborg_08",
+      "matches": 101
+    },
+    {
+      "team": "Sandefjord Fotball",
+      "teamId": 676,
+      "dir": "Sandefjord_Fotball",
+      "matches": 101
+    },
+    {
+      "team": "Molde FK",
+      "teamId": 661,
+      "dir": "Molde_FK",
+      "matches": 101
+    },
+    {
+      "team": "Bodø/Glimt",
+      "teamId": 656,
+      "dir": "BodøGlimt",
+      "matches": 101
+    },
+    {
+      "team": "Viking FK",
+      "teamId": 1164,
+      "dir": "Viking_FK",
+      "matches": 100
+    },
+    {
+      "team": "HamKam",
+      "teamId": 666,
+      "dir": "HamKam",
+      "matches": 100
+    },
+    {
+      "team": "Haugesund",
+      "teamId": 673,
+      "dir": "Haugesund",
+      "matches": 92
+    },
+    {
+      "team": "Strømsgodset",
+      "teamId": 1163,
+      "dir": "Strømsgodset",
+      "matches": 90
+    },
+    {
+      "team": "Kristiansund BK",
+      "teamId": 957,
+      "dir": "Kristiansund_BK",
+      "matches": 75
+    },
+    {
+      "team": "Vålerenga IF",
+      "teamId": 1165,
+      "dir": "Vålerenga_IF",
+      "matches": 73
+    },
+    {
+      "team": "KFUM Oslo",
+      "teamId": 786,
+      "dir": "KFUM_Oslo",
+      "matches": 71
+    },
+    {
+      "team": "Fredrikstad FK",
+      "teamId": 687,
+      "dir": "Fredrikstad_FK",
+      "matches": 71
+    },
+    {
+      "team": "Lillestrøm SK",
+      "teamId": 664,
+      "dir": "Lillestrøm_SK",
+      "matches": 71
+    },
+    {
+      "team": "Odds BK",
+      "teamId": 659,
+      "dir": "Odds_BK",
+      "matches": 60
+    },
+    {
+      "team": "Aalesunds FK",
+      "teamId": 677,
+      "dir": "Aalesunds_FK",
+      "matches": 45
+    },
+    {
+      "team": "Bryne FK",
+      "teamId": 663,
+      "dir": "Bryne_FK",
+      "matches": 33
+    },
+    {
+      "team": "Stabæk Fotball",
+      "teamId": 1162,
+      "dir": "Stabæk_Fotball",
+      "matches": 30
+    },
+    {
+      "team": "IK Start",
+      "teamId": 667,
+      "dir": "IK_Start",
+      "matches": 12
+    },
+    {
+      "team": "Kongsvinger",
+      "teamId": 672,
+      "dir": "Kongsvinger",
+      "matches": 5
+    },
+    {
+      "team": "Egersund",
+      "teamId": 920,
+      "dir": "Egersund",
+      "matches": 3
+    },
+    {
+      "team": "Moss FK",
+      "teamId": 662,
+      "dir": "Moss_FK",
+      "matches": 3
+    },
+    {
+      "team": "Ranheim IL",
+      "teamId": 708,
+      "dir": "Ranheim_IL",
+      "matches": 1
+    },
+    {
+      "team": "Lyn FK",
+      "teamId": 657,
+      "dir": "Lyn_FK",
+      "matches": 1
+    }
+  ]
+}

@@ -2,41 +2,41 @@
   "team": "Fylkir Reykjavík",
   "teamId": 1896,
   "league": "Besta deild karla (Islanda)",
-  "matches": 27,
+  "matches": 33,
   "record": {
-    "w": 5,
-    "d": 6,
-    "l": 16,
-    "points": 21
+    "w": 7,
+    "d": 9,
+    "l": 17,
+    "points": 30
   },
   "goals": {
-    "for": 1.19,
-    "against": 2.22,
-    "total": 3.41
+    "for": 1.42,
+    "against": 2.15,
+    "total": 3.58
   },
   "rates": {
-    "over25": 0.67,
-    "btts": 0.52
+    "over25": 0.7,
+    "btts": 0.61
   },
   "avgStats": {
-    "xg": 1.51,
-    "shots": 11.93,
-    "shotsOnTarget": 3.93,
-    "shotsOffTarget": 4.2,
-    "blockedShots": 3.4,
-    "possession": 45.13,
-    "corners": 5.07,
+    "xg": 1.8,
+    "shots": 12.86,
+    "shotsOnTarget": 4.52,
+    "shotsOffTarget": 4.24,
+    "blockedShots": 3.76,
+    "possession": 46.05,
+    "corners": 5.24,
     "offsides": 1,
-    "fouls": 11.27,
-    "yellowCards": 1.8,
-    "redCards": 0.13,
+    "fouls": 11.1,
+    "yellowCards": 1.76,
+    "redCards": 0.14,
     "bigChances": null,
     "bigChancesMissed": null,
-    "passes": 346.93,
-    "accuratePasses": 276.07,
+    "passes": 357.14,
+    "accuratePasses": 285.33,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.4
+    "saves": 2.71
   },
   "lastDate": "2024-10-26"
 }

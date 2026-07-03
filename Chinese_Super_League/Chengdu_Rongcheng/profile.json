@@ -1,0 +1,42 @@
+{
+  "team": "Chengdu Rongcheng",
+  "teamId": 221241,
+  "league": "Chinese Super League",
+  "matches": 106,
+  "record": {
+    "w": 63,
+    "d": 23,
+    "l": 20,
+    "points": 212
+  },
+  "goals": {
+    "for": 2,
+    "against": 1,
+    "total": 3
+  },
+  "rates": {
+    "over25": 0.59,
+    "btts": 0.56
+  },
+  "avgStats": {
+    "xg": 2,
+    "shots": 15.74,
+    "shotsOnTarget": 5.88,
+    "shotsOffTarget": 6.17,
+    "blockedShots": 3.69,
+    "possession": 53.81,
+    "corners": 6.09,
+    "offsides": 2.09,
+    "fouls": 14.08,
+    "yellowCards": 2.05,
+    "redCards": 0.48,
+    "bigChances": 3.33,
+    "bigChancesMissed": 2.27,
+    "passes": 426.4,
+    "accuratePasses": 344.61,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 1.97
+  },
+  "lastDate": "2026-06-27"
+}

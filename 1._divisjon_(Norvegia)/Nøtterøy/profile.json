@@ -1,0 +1,42 @@
+{
+  "team": "Nøtterøy",
+  "teamId": 7370,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 28,
+  "record": {
+    "w": 13,
+    "d": 1,
+    "l": 14,
+    "points": 40
+  },
+  "goals": {
+    "for": 30.32,
+    "against": 29.89,
+    "total": 60.21
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-29"
+}

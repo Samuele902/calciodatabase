@@ -1,0 +1,42 @@
+{
+  "team": "Sarpsborg 08",
+  "teamId": 822,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 101,
+  "record": {
+    "w": 37,
+    "d": 22,
+    "l": 42,
+    "points": 133
+  },
+  "goals": {
+    "for": 1.57,
+    "against": 1.71,
+    "total": 3.29
+  },
+  "rates": {
+    "over25": 0.67,
+    "btts": 0.67
+  },
+  "avgStats": {
+    "xg": 1.71,
+    "shots": 14.46,
+    "shotsOnTarget": 5.11,
+    "shotsOffTarget": 5.4,
+    "blockedShots": 3.95,
+    "possession": 49.8,
+    "corners": 5.58,
+    "offsides": 1.49,
+    "fouls": 11.34,
+    "yellowCards": 1.66,
+    "redCards": 0.55,
+    "bigChances": 2.26,
+    "bigChancesMissed": 1.41,
+    "passes": 439.89,
+    "accuratePasses": 357.61,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.98
+  },
+  "lastDate": "2026-05-29"
+}

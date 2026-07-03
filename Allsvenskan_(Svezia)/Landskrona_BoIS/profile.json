@@ -1,0 +1,42 @@
+{
+  "team": "Landskrona BoIS",
+  "teamId": 1772,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 2,
+  "record": {
+    "w": 0,
+    "d": 1,
+    "l": 1,
+    "points": 1
+  },
+  "goals": {
+    "for": 1,
+    "against": 1.5,
+    "total": 2.5
+  },
+  "rates": {
+    "over25": 0.5,
+    "btts": 0.5
+  },
+  "avgStats": {
+    "xg": 1.53,
+    "shots": 13,
+    "shotsOnTarget": 3,
+    "shotsOffTarget": 5,
+    "blockedShots": 5,
+    "possession": 57,
+    "corners": 8,
+    "offsides": 4,
+    "fouls": 11.5,
+    "yellowCards": 2,
+    "redCards": 0,
+    "bigChances": 1,
+    "bigChancesMissed": 1,
+    "passes": 542.5,
+    "accuratePasses": 471,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3
+  },
+  "lastDate": "2024-11-24"
+}

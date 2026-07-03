@@ -1,0 +1,42 @@
+{
+  "team": "Sandefjord Fotball",
+  "teamId": 676,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 101,
+  "record": {
+    "w": 36,
+    "d": 19,
+    "l": 46,
+    "points": 127
+  },
+  "goals": {
+    "for": 1.51,
+    "against": 1.54,
+    "total": 3.06
+  },
+  "rates": {
+    "over25": 0.6,
+    "btts": 0.57
+  },
+  "avgStats": {
+    "xg": 1.38,
+    "shots": 13.66,
+    "shotsOnTarget": 4.73,
+    "shotsOffTarget": 4.88,
+    "blockedShots": 4.05,
+    "possession": 51.39,
+    "corners": 4.69,
+    "offsides": 1.29,
+    "fouls": 11.54,
+    "yellowCards": 1.73,
+    "redCards": 0.64,
+    "bigChances": 2,
+    "bigChancesMissed": 1.29,
+    "passes": 464.09,
+    "accuratePasses": 377.21,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.03
+  },
+  "lastDate": "2026-05-30"
+}

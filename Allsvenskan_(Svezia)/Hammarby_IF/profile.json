@@ -2,41 +2,41 @@
   "team": "Hammarby IF",
   "teamId": 1758,
   "league": "Allsvenskan (Svezia)",
-  "matches": 11,
+  "matches": 101,
   "record": {
-    "w": 5,
-    "d": 2,
-    "l": 4,
-    "points": 17
+    "w": 51,
+    "d": 24,
+    "l": 26,
+    "points": 177
   },
   "goals": {
-    "for": 2.18,
-    "against": 1.18,
-    "total": 3.36
+    "for": 1.71,
+    "against": 1.05,
+    "total": 2.76
   },
   "rates": {
-    "over25": 0.55,
-    "btts": 0.55
+    "over25": 0.54,
+    "btts": 0.48
   },
   "avgStats": {
-    "xg": 2.23,
-    "shots": 20.91,
-    "shotsOnTarget": 6.82,
-    "shotsOffTarget": 9.64,
-    "blockedShots": 4.45,
-    "possession": 60.18,
-    "corners": 5.36,
+    "xg": 1.52,
+    "shots": 15.85,
+    "shotsOnTarget": 5.46,
+    "shotsOffTarget": 5.84,
+    "blockedShots": 4.55,
+    "possession": 58.16,
+    "corners": 5.63,
     "offsides": 1.91,
-    "fouls": 11,
-    "yellowCards": 1.18,
-    "redCards": 1,
-    "bigChances": 3.36,
-    "bigChancesMissed": 2.18,
-    "passes": 561.82,
-    "accuratePasses": 483.91,
+    "fouls": 10.41,
+    "yellowCards": 1.48,
+    "redCards": 0.56,
+    "bigChances": 2.12,
+    "bigChancesMissed": 1.32,
+    "passes": 535.53,
+    "accuratePasses": 457.12,
     "tackles": null,
     "interceptions": null,
-    "saves": 2.64
+    "saves": 3.02
   },
   "lastDate": "2026-05-31"
 }

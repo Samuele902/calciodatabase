@@ -2,41 +2,41 @@
   "team": "Djurgårdens IF",
   "teamId": 1759,
   "league": "Allsvenskan (Svezia)",
-  "matches": 9,
+  "matches": 99,
   "record": {
-    "w": 4,
-    "d": 1,
-    "l": 4,
-    "points": 13
+    "w": 48,
+    "d": 21,
+    "l": 30,
+    "points": 165
   },
   "goals": {
-    "for": 2.11,
-    "against": 1.44,
-    "total": 3.56
+    "for": 1.59,
+    "against": 1.17,
+    "total": 2.76
   },
   "rates": {
-    "over25": 0.67,
-    "btts": 0.67
+    "over25": 0.45,
+    "btts": 0.49
   },
   "avgStats": {
-    "xg": 2.12,
-    "shots": 16.78,
-    "shotsOnTarget": 6.11,
-    "shotsOffTarget": 6.33,
-    "blockedShots": 4.33,
-    "possession": 57.44,
-    "corners": 6.56,
-    "offsides": 1.33,
-    "fouls": 12.22,
-    "yellowCards": 1.56,
-    "redCards": null,
-    "bigChances": 3.67,
-    "bigChancesMissed": 2.33,
-    "passes": 492.44,
-    "accuratePasses": 415.67,
+    "xg": 1.57,
+    "shots": 14.22,
+    "shotsOnTarget": 4.94,
+    "shotsOffTarget": 5.35,
+    "blockedShots": 3.93,
+    "possession": 52.96,
+    "corners": 5.83,
+    "offsides": 1.7,
+    "fouls": 12.57,
+    "yellowCards": 1.88,
+    "redCards": 0.36,
+    "bigChances": 2.46,
+    "bigChancesMissed": 1.66,
+    "passes": 483.82,
+    "accuratePasses": 401.17,
     "tackles": null,
     "interceptions": null,
-    "saves": 3.11
+    "saves": 2.71
   },
   "lastDate": "2026-05-22"
 }

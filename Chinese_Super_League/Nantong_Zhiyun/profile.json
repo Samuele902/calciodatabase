@@ -1,0 +1,42 @@
+{
+  "team": "Nantong Zhiyun",
+  "teamId": 251278,
+  "league": "Chinese Super League",
+  "matches": 60,
+  "record": {
+    "w": 9,
+    "d": 17,
+    "l": 34,
+    "points": 44
+  },
+  "goals": {
+    "for": 0.97,
+    "against": 1.8,
+    "total": 2.77
+  },
+  "rates": {
+    "over25": 0.45,
+    "btts": 0.62
+  },
+  "avgStats": {
+    "xg": 1.04,
+    "shots": 12.35,
+    "shotsOnTarget": 3.58,
+    "shotsOffTarget": 5.45,
+    "blockedShots": 3.32,
+    "possession": 48.83,
+    "corners": 4.98,
+    "offsides": 1.45,
+    "fouls": 12.78,
+    "yellowCards": 2.29,
+    "redCards": 0.39,
+    "bigChances": 1.4,
+    "bigChancesMissed": 0.75,
+    "passes": 366.57,
+    "accuratePasses": 286.15,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.63
+  },
+  "lastDate": "2024-11-02"
+}

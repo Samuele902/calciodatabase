@@ -1,0 +1,139 @@
+{
+  "league": "Chinese Super League",
+  "tournamentId": 649,
+  "matches": 848,
+  "teams": [
+    {
+      "team": "Wuhan Three Towns",
+      "teamId": 295152,
+      "dir": "Wuhan_Three_Towns",
+      "matches": 106
+    },
+    {
+      "team": "Chengdu Rongcheng",
+      "teamId": 221241,
+      "dir": "Chengdu_Rongcheng",
+      "matches": 106
+    },
+    {
+      "team": "Shanghai Port",
+      "teamId": 41537,
+      "dir": "Shanghai_Port",
+      "matches": 106
+    },
+    {
+      "team": "Zhejiang",
+      "teamId": 34697,
+      "dir": "Zhejiang",
+      "matches": 106
+    },
+    {
+      "team": "Qingdao Hainiu",
+      "teamId": 34695,
+      "dir": "Qingdao_Hainiu",
+      "matches": 106
+    },
+    {
+      "team": "Henan FC",
+      "teamId": 34692,
+      "dir": "Henan_FC",
+      "matches": 106
+    },
+    {
+      "team": "Beijing Guoan",
+      "teamId": 3376,
+      "dir": "Beijing_Guoan",
+      "matches": 106
+    },
+    {
+      "team": "Shanghai Shenhua",
+      "teamId": 3373,
+      "dir": "Shanghai_Shenhua",
+      "matches": 106
+    },
+    {
+      "team": "Shandong Taishan",
+      "teamId": 3371,
+      "dir": "Shandong_Taishan",
+      "matches": 106
+    },
+    {
+      "team": "Tianjin Jinmen Tiger",
+      "teamId": 3367,
+      "dir": "Tianjin_Jinmen_Tiger",
+      "matches": 106
+    },
+    {
+      "team": "Meizhou Hakka",
+      "teamId": 215186,
+      "dir": "Meizhou_Hakka",
+      "matches": 90
+    },
+    {
+      "team": "Changchun Yatai",
+      "teamId": 34694,
+      "dir": "Changchun_Yatai",
+      "matches": 90
+    },
+    {
+      "team": "Qingdao West Coast",
+      "teamId": 369532,
+      "dir": "Qingdao_West_Coast",
+      "matches": 76
+    },
+    {
+      "team": "Shenzhen Peng City",
+      "teamId": 281331,
+      "dir": "Shenzhen_Peng_City",
+      "matches": 76
+    },
+    {
+      "team": "Nantong Zhiyun",
+      "teamId": 251278,
+      "dir": "Nantong_Zhiyun",
+      "matches": 60
+    },
+    {
+      "team": "Cangzhou Mighty Lions",
+      "teamId": 66440,
+      "dir": "Cangzhou_Mighty_Lions",
+      "matches": 60
+    },
+    {
+      "team": "Dalian Yingbo FC",
+      "teamId": 474992,
+      "dir": "Dalian_Yingbo_FC",
+      "matches": 46
+    },
+    {
+      "team": "Yunnan Yukun",
+      "teamId": 474991,
+      "dir": "Yunnan_Yukun",
+      "matches": 46
+    },
+    {
+      "team": "Dalian Pro",
+      "teamId": 49936,
+      "dir": "Dalian_Pro",
+      "matches": 30
+    },
+    {
+      "team": "Shenzhen",
+      "teamId": 3370,
+      "dir": "Shenzhen",
+      "matches": 30
+    },
+    {
+      "team": "Chongqing Tonglianglong FC",
+      "teamId": 474989,
+      "dir": "Chongqing_Tonglianglong_FC",
+      "matches": 16
+    },
+    {
+      "team": "Liaoning Tieren FC",
+      "teamId": 221240,
+      "dir": "Liaoning_Tieren_FC",
+      "matches": 16
+    }
+  ]
+}

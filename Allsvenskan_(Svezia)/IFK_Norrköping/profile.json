@@ -1,0 +1,42 @@
+{
+  "team": "IFK Norrköping",
+  "teamId": 1769,
+  "league": "Allsvenskan (Svezia)",
+  "matches": 92,
+  "record": {
+    "w": 29,
+    "d": 18,
+    "l": 45,
+    "points": 105
+  },
+  "goals": {
+    "for": 1.32,
+    "against": 1.76,
+    "total": 3.08
+  },
+  "rates": {
+    "over25": 0.61,
+    "btts": 0.62
+  },
+  "avgStats": {
+    "xg": 1.28,
+    "shots": 12.2,
+    "shotsOnTarget": 4.14,
+    "shotsOffTarget": 4.59,
+    "blockedShots": 3.47,
+    "possession": 46.29,
+    "corners": 4.79,
+    "offsides": 1.22,
+    "fouls": 12.87,
+    "yellowCards": 1.96,
+    "redCards": 0.43,
+    "bigChances": 1.89,
+    "bigChancesMissed": 1.2,
+    "passes": 397.64,
+    "accuratePasses": 316.6,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.52
+  },
+  "lastDate": "2025-11-29"
+}

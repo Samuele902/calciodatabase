@@ -1,0 +1,42 @@
+{
+  "team": "Kragerø IF",
+  "teamId": 190260,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 26,
+  "record": {
+    "w": 11,
+    "d": 1,
+    "l": 14,
+    "points": 34
+  },
+  "goals": {
+    "for": 28.65,
+    "against": 32.42,
+    "total": 61.08
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 1,
+    "redCards": null,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-12"
+}

@@ -1,0 +1,42 @@
+{
+  "team": "ROS",
+  "teamId": 297212,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 52,
+  "record": {
+    "w": 13,
+    "d": 6,
+    "l": 33,
+    "points": 45
+  },
+  "goals": {
+    "for": 29.65,
+    "against": 32.69,
+    "total": 62.35
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 0.67,
+    "redCards": 0.5,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2025-04-05"
+}

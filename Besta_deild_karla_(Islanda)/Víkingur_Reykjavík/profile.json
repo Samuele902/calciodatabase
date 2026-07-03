@@ -2,41 +2,41 @@
   "team": "Víkingur Reykjavík",
   "teamId": 1908,
   "league": "Besta deild karla (Islanda)",
-  "matches": 66,
+  "matches": 72,
   "record": {
-    "w": 46,
-    "d": 12,
-    "l": 8,
-    "points": 150
+    "w": 49,
+    "d": 13,
+    "l": 10,
+    "points": 160
   },
   "goals": {
-    "for": 2.53,
-    "against": 1.06,
-    "total": 3.59
+    "for": 2.51,
+    "against": 1.13,
+    "total": 3.64
   },
   "rates": {
-    "over25": 0.68,
-    "btts": 0.59
+    "over25": 0.71,
+    "btts": 0.63
   },
   "avgStats": {
-    "xg": 1.93,
-    "shots": 16.33,
-    "shotsOnTarget": 6.25,
-    "shotsOffTarget": 5.85,
-    "blockedShots": 4.12,
-    "possession": 57.9,
-    "corners": 6.21,
-    "offsides": 2.1,
-    "fouls": 9.35,
-    "yellowCards": 2.25,
-    "redCards": 0.16,
+    "xg": 2,
+    "shots": 16.14,
+    "shotsOnTarget": 6.24,
+    "shotsOffTarget": 5.67,
+    "blockedShots": 4.09,
+    "possession": 57.88,
+    "corners": 6.34,
+    "offsides": 2.12,
+    "fouls": 9.55,
+    "yellowCards": 2.18,
+    "redCards": 0.12,
     "bigChances": 4.11,
     "bigChancesMissed": 2.26,
-    "passes": 474.29,
-    "accuratePasses": 397.04,
+    "passes": 472.71,
+    "accuratePasses": 395.78,
     "tackles": null,
     "interceptions": null,
-    "saves": 1.79
+    "saves": 1.91
   },
   "lastDate": "2026-06-21"
 }

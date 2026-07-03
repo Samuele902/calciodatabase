@@ -1,0 +1,42 @@
+{
+  "team": "Egersund",
+  "teamId": 920,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 3,
+  "record": {
+    "w": 1,
+    "d": 0,
+    "l": 2,
+    "points": 3
+  },
+  "goals": {
+    "for": 1.67,
+    "against": 2.33,
+    "total": 4
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": 0.71,
+    "shots": 12.33,
+    "shotsOnTarget": 4.33,
+    "shotsOffTarget": 3.67,
+    "blockedShots": 4,
+    "possession": 44,
+    "corners": 3.67,
+    "offsides": 0.67,
+    "fouls": 9.67,
+    "yellowCards": 2,
+    "redCards": 0,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 409.67,
+    "accuratePasses": 331.33,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 5.67
+  },
+  "lastDate": "2025-11-26"
+}

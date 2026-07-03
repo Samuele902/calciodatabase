@@ -1,0 +1,42 @@
+{
+  "team": "Viking TIF",
+  "teamId": 117708,
+  "league": "1. divisjon (Norvegia)",
+  "matches": 53,
+  "record": {
+    "w": 43,
+    "d": 1,
+    "l": 9,
+    "points": 130
+  },
+  "goals": {
+    "for": 34.77,
+    "against": 28.28,
+    "total": 63.06
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": null,
+    "shots": null,
+    "shotsOnTarget": null,
+    "shotsOffTarget": null,
+    "blockedShots": null,
+    "possession": null,
+    "corners": null,
+    "offsides": null,
+    "fouls": null,
+    "yellowCards": 0.33,
+    "redCards": null,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": null,
+    "accuratePasses": null,
+    "tackles": null,
+    "interceptions": null,
+    "saves": null
+  },
+  "lastDate": "2026-04-12"
+}

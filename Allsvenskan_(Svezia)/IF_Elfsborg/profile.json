@@ -2,41 +2,41 @@
   "team": "IF Elfsborg",
   "teamId": 1762,
   "league": "Allsvenskan (Svezia)",
-  "matches": 11,
+  "matches": 101,
   "record": {
-    "w": 4,
-    "d": 6,
-    "l": 1,
-    "points": 18
+    "w": 49,
+    "d": 20,
+    "l": 32,
+    "points": 167
   },
   "goals": {
-    "for": 1.45,
-    "against": 1,
-    "total": 2.45
+    "for": 1.7,
+    "against": 1.31,
+    "total": 3.01
   },
   "rates": {
-    "over25": 0.36,
-    "btts": 0.73
+    "over25": 0.59,
+    "btts": 0.52
   },
   "avgStats": {
-    "xg": 1.5,
-    "shots": 10.27,
-    "shotsOnTarget": 3.64,
-    "shotsOffTarget": 3.91,
-    "blockedShots": 2.73,
-    "possession": 44.73,
-    "corners": 3.55,
-    "offsides": 1.36,
-    "fouls": 11.55,
-    "yellowCards": 1.82,
-    "redCards": null,
-    "bigChances": 2.27,
-    "bigChancesMissed": 1.27,
-    "passes": 414.73,
-    "accuratePasses": 331.82,
+    "xg": 1.59,
+    "shots": 13.58,
+    "shotsOnTarget": 4.67,
+    "shotsOffTarget": 5.2,
+    "blockedShots": 3.71,
+    "possession": 45.75,
+    "corners": 5.65,
+    "offsides": 2.06,
+    "fouls": 15.02,
+    "yellowCards": 2,
+    "redCards": 0.67,
+    "bigChances": 2.61,
+    "bigChancesMissed": 1.6,
+    "passes": 402.69,
+    "accuratePasses": 317.98,
     "tackles": null,
     "interceptions": null,
-    "saves": 2.27
+    "saves": 2.81
   },
   "lastDate": "2026-05-29"
 }

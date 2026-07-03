@@ -1,0 +1,42 @@
+{
+  "team": "Rosenborg BK",
+  "teamId": 1161,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 101,
+  "record": {
+    "w": 40,
+    "d": 23,
+    "l": 38,
+    "points": 143
+  },
+  "goals": {
+    "for": 1.5,
+    "against": 1.48,
+    "total": 2.98
+  },
+  "rates": {
+    "over25": 0.57,
+    "btts": 0.55
+  },
+  "avgStats": {
+    "xg": 1.58,
+    "shots": 13.04,
+    "shotsOnTarget": 4.25,
+    "shotsOffTarget": 5.01,
+    "blockedShots": 3.79,
+    "possession": 52.22,
+    "corners": 5.48,
+    "offsides": 1.61,
+    "fouls": 10.99,
+    "yellowCards": 2.03,
+    "redCards": 0.35,
+    "bigChances": 2.46,
+    "bigChancesMissed": 1.58,
+    "passes": 469.33,
+    "accuratePasses": 386.19,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 2.97
+  },
+  "lastDate": "2026-05-29"
+}

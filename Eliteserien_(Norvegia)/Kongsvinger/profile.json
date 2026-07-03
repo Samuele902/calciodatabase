@@ -1,0 +1,42 @@
+{
+  "team": "Kongsvinger",
+  "teamId": 672,
+  "league": "Eliteserien (Norvegia)",
+  "matches": 5,
+  "record": {
+    "w": 2,
+    "d": 0,
+    "l": 3,
+    "points": 6
+  },
+  "goals": {
+    "for": 2.4,
+    "against": 2.8,
+    "total": 5.2
+  },
+  "rates": {
+    "over25": 1,
+    "btts": 1
+  },
+  "avgStats": {
+    "xg": 2.35,
+    "shots": 19.8,
+    "shotsOnTarget": 7.2,
+    "shotsOffTarget": 6.4,
+    "blockedShots": 6.2,
+    "possession": 56.8,
+    "corners": 7.2,
+    "offsides": 1.6,
+    "fouls": 15.6,
+    "yellowCards": 2.4,
+    "redCards": 0.4,
+    "bigChances": null,
+    "bigChancesMissed": null,
+    "passes": 561.6,
+    "accuratePasses": 455,
+    "tackles": null,
+    "interceptions": null,
+    "saves": 3.8
+  },
+  "lastDate": "2025-11-30"
+}
